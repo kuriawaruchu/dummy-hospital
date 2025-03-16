@@ -1,0 +1,2929 @@
+date,department_id,department,daily_patient_count
+01/01/2024,101,General Medicine,107
+02/01/2024,101,General Medicine,184
+03/01/2024,101,General Medicine,97
+04/01/2024,101,General Medicine,19
+05/01/2024,101,General Medicine,111
+06/01/2024,101,General Medicine,76
+07/01/2024,101,General Medicine,193
+08/01/2024,101,General Medicine,25
+09/01/2024,101,General Medicine,107
+10/01/2024,101,General Medicine,126
+11/01/2024,101,General Medicine,79
+12/01/2024,101,General Medicine,92
+13/01/2024,101,General Medicine,121
+14/01/2024,101,General Medicine,104
+15/01/2024,101,General Medicine,108
+16/01/2024,101,General Medicine,156
+17/01/2024,101,General Medicine,135
+18/01/2024,101,General Medicine,154
+19/01/2024,101,General Medicine,57
+20/01/2024,101,General Medicine,6
+21/01/2024,101,General Medicine,92
+22/01/2024,101,General Medicine,162
+23/01/2024,101,General Medicine,42
+24/01/2024,101,General Medicine,134
+25/01/2024,101,General Medicine,196
+26/01/2024,101,General Medicine,192
+27/01/2024,101,General Medicine,25
+28/01/2024,101,General Medicine,165
+29/01/2024,101,General Medicine,62
+30/01/2024,101,General Medicine,26
+31/01/2024,101,General Medicine,93
+01/02/2024,101,General Medicine,53
+02/02/2024,101,General Medicine,63
+03/02/2024,101,General Medicine,174
+04/02/2024,101,General Medicine,192
+05/02/2024,101,General Medicine,19
+06/02/2024,101,General Medicine,194
+07/02/2024,101,General Medicine,194
+08/02/2024,101,General Medicine,179
+09/02/2024,101,General Medicine,194
+10/02/2024,101,General Medicine,55
+11/02/2024,101,General Medicine,112
+12/02/2024,101,General Medicine,59
+13/02/2024,101,General Medicine,68
+14/02/2024,101,General Medicine,135
+15/02/2024,101,General Medicine,55
+16/02/2024,101,General Medicine,139
+17/02/2024,101,General Medicine,25
+18/02/2024,101,General Medicine,77
+19/02/2024,101,General Medicine,171
+20/02/2024,101,General Medicine,22
+21/02/2024,101,General Medicine,136
+22/02/2024,101,General Medicine,93
+23/02/2024,101,General Medicine,64
+24/02/2024,101,General Medicine,18
+25/02/2024,101,General Medicine,13
+26/02/2024,101,General Medicine,94
+27/02/2024,101,General Medicine,57
+28/02/2024,101,General Medicine,134
+29/02/2024,101,General Medicine,88
+01/03/2024,101,General Medicine,96
+02/03/2024,101,General Medicine,115
+03/03/2024,101,General Medicine,192
+04/03/2024,101,General Medicine,176
+05/03/2024,101,General Medicine,12
+06/03/2024,101,General Medicine,179
+07/03/2024,101,General Medicine,39
+08/03/2024,101,General Medicine,85
+09/03/2024,101,General Medicine,168
+10/03/2024,101,General Medicine,54
+11/03/2024,101,General Medicine,108
+12/03/2024,101,General Medicine,136
+13/03/2024,101,General Medicine,6
+14/03/2024,101,General Medicine,138
+15/03/2024,101,General Medicine,58
+16/03/2024,101,General Medicine,110
+17/03/2024,101,General Medicine,8
+18/03/2024,101,General Medicine,58
+19/03/2024,101,General Medicine,195
+20/03/2024,101,General Medicine,150
+21/03/2024,101,General Medicine,48
+22/03/2024,101,General Medicine,166
+23/03/2024,101,General Medicine,194
+24/03/2024,101,General Medicine,18
+25/03/2024,101,General Medicine,99
+26/03/2024,101,General Medicine,52
+27/03/2024,101,General Medicine,19
+28/03/2024,101,General Medicine,194
+29/03/2024,101,General Medicine,44
+30/03/2024,101,General Medicine,86
+31/03/2024,101,General Medicine,115
+01/04/2024,101,General Medicine,57
+02/04/2024,101,General Medicine,28
+03/04/2024,101,General Medicine,158
+04/04/2024,101,General Medicine,192
+05/04/2024,101,General Medicine,128
+06/04/2024,101,General Medicine,45
+07/04/2024,101,General Medicine,161
+08/04/2024,101,General Medicine,19
+09/04/2024,101,General Medicine,49
+10/04/2024,101,General Medicine,69
+11/04/2024,101,General Medicine,93
+12/04/2024,101,General Medicine,75
+13/04/2024,101,General Medicine,13
+14/04/2024,101,General Medicine,92
+15/04/2024,101,General Medicine,133
+16/04/2024,101,General Medicine,140
+17/04/2024,101,General Medicine,67
+18/04/2024,101,General Medicine,143
+19/04/2024,101,General Medicine,85
+20/04/2024,101,General Medicine,140
+21/04/2024,101,General Medicine,167
+22/04/2024,101,General Medicine,167
+23/04/2024,101,General Medicine,37
+24/04/2024,101,General Medicine,127
+25/04/2024,101,General Medicine,9
+26/04/2024,101,General Medicine,45
+27/04/2024,101,General Medicine,32
+28/04/2024,101,General Medicine,139
+29/04/2024,101,General Medicine,76
+30/04/2024,101,General Medicine,16
+01/05/2024,101,General Medicine,166
+02/05/2024,101,General Medicine,37
+03/05/2024,101,General Medicine,52
+04/05/2024,101,General Medicine,155
+05/05/2024,101,General Medicine,66
+06/05/2024,101,General Medicine,41
+07/05/2024,101,General Medicine,103
+08/05/2024,101,General Medicine,176
+09/05/2024,101,General Medicine,108
+10/05/2024,101,General Medicine,39
+11/05/2024,101,General Medicine,197
+12/05/2024,101,General Medicine,105
+13/05/2024,101,General Medicine,179
+14/05/2024,101,General Medicine,135
+15/05/2024,101,General Medicine,5
+16/05/2024,101,General Medicine,9
+17/05/2024,101,General Medicine,146
+18/05/2024,101,General Medicine,107
+19/05/2024,101,General Medicine,31
+20/05/2024,101,General Medicine,141
+21/05/2024,101,General Medicine,19
+22/05/2024,101,General Medicine,94
+23/05/2024,101,General Medicine,46
+24/05/2024,101,General Medicine,128
+25/05/2024,101,General Medicine,183
+26/05/2024,101,General Medicine,67
+27/05/2024,101,General Medicine,100
+28/05/2024,101,General Medicine,56
+29/05/2024,101,General Medicine,100
+30/05/2024,101,General Medicine,136
+31/05/2024,101,General Medicine,155
+01/06/2024,101,General Medicine,147
+02/06/2024,101,General Medicine,175
+03/06/2024,101,General Medicine,33
+04/06/2024,101,General Medicine,40
+05/06/2024,101,General Medicine,17
+06/06/2024,101,General Medicine,164
+07/06/2024,101,General Medicine,75
+08/06/2024,101,General Medicine,191
+09/06/2024,101,General Medicine,90
+10/06/2024,101,General Medicine,32
+11/06/2024,101,General Medicine,70
+12/06/2024,101,General Medicine,174
+13/06/2024,101,General Medicine,49
+14/06/2024,101,General Medicine,66
+15/06/2024,101,General Medicine,189
+16/06/2024,101,General Medicine,138
+17/06/2024,101,General Medicine,32
+18/06/2024,101,General Medicine,32
+19/06/2024,101,General Medicine,112
+20/06/2024,101,General Medicine,48
+21/06/2024,101,General Medicine,88
+22/06/2024,101,General Medicine,34
+23/06/2024,101,General Medicine,194
+24/06/2024,101,General Medicine,79
+25/06/2024,101,General Medicine,132
+26/06/2024,101,General Medicine,96
+27/06/2024,101,General Medicine,194
+28/06/2024,101,General Medicine,133
+29/06/2024,101,General Medicine,125
+30/06/2024,101,General Medicine,31
+01/07/2024,101,General Medicine,194
+02/07/2024,101,General Medicine,125
+03/07/2024,101,General Medicine,120
+04/07/2024,101,General Medicine,7
+05/07/2024,101,General Medicine,107
+06/07/2024,101,General Medicine,159
+07/07/2024,101,General Medicine,141
+08/07/2024,101,General Medicine,66
+09/07/2024,101,General Medicine,169
+10/07/2024,101,General Medicine,55
+11/07/2024,101,General Medicine,176
+12/07/2024,101,General Medicine,156
+13/07/2024,101,General Medicine,63
+14/07/2024,101,General Medicine,122
+15/07/2024,101,General Medicine,164
+16/07/2024,101,General Medicine,100
+17/07/2024,101,General Medicine,184
+18/07/2024,101,General Medicine,117
+19/07/2024,101,General Medicine,66
+20/07/2024,101,General Medicine,190
+21/07/2024,101,General Medicine,56
+22/07/2024,101,General Medicine,16
+23/07/2024,101,General Medicine,43
+24/07/2024,101,General Medicine,134
+25/07/2024,101,General Medicine,135
+26/07/2024,101,General Medicine,117
+27/07/2024,101,General Medicine,105
+28/07/2024,101,General Medicine,117
+29/07/2024,101,General Medicine,188
+30/07/2024,101,General Medicine,85
+31/07/2024,101,General Medicine,191
+01/08/2024,101,General Medicine,117
+02/08/2024,101,General Medicine,6
+03/08/2024,101,General Medicine,134
+04/08/2024,101,General Medicine,58
+05/08/2024,101,General Medicine,91
+06/08/2024,101,General Medicine,133
+07/08/2024,101,General Medicine,151
+08/08/2024,101,General Medicine,130
+09/08/2024,101,General Medicine,134
+10/08/2024,101,General Medicine,57
+11/08/2024,101,General Medicine,176
+12/08/2024,101,General Medicine,164
+13/08/2024,101,General Medicine,164
+14/08/2024,101,General Medicine,72
+15/08/2024,101,General Medicine,187
+16/08/2024,101,General Medicine,188
+17/08/2024,101,General Medicine,127
+18/08/2024,101,General Medicine,149
+19/08/2024,101,General Medicine,42
+20/08/2024,101,General Medicine,28
+21/08/2024,101,General Medicine,73
+22/08/2024,101,General Medicine,120
+23/08/2024,101,General Medicine,102
+24/08/2024,101,General Medicine,143
+25/08/2024,101,General Medicine,148
+26/08/2024,101,General Medicine,101
+27/08/2024,101,General Medicine,128
+28/08/2024,101,General Medicine,191
+29/08/2024,101,General Medicine,74
+30/08/2024,101,General Medicine,97
+31/08/2024,101,General Medicine,7
+01/09/2024,101,General Medicine,152
+02/09/2024,101,General Medicine,191
+03/09/2024,101,General Medicine,168
+04/09/2024,101,General Medicine,151
+05/09/2024,101,General Medicine,94
+06/09/2024,101,General Medicine,199
+07/09/2024,101,General Medicine,151
+08/09/2024,101,General Medicine,152
+09/09/2024,101,General Medicine,100
+10/09/2024,101,General Medicine,56
+11/09/2024,101,General Medicine,165
+12/09/2024,101,General Medicine,172
+13/09/2024,101,General Medicine,132
+14/09/2024,101,General Medicine,43
+15/09/2024,101,General Medicine,86
+16/09/2024,101,General Medicine,108
+17/09/2024,101,General Medicine,133
+18/09/2024,101,General Medicine,15
+19/09/2024,101,General Medicine,189
+20/09/2024,101,General Medicine,182
+21/09/2024,101,General Medicine,155
+22/09/2024,101,General Medicine,163
+23/09/2024,101,General Medicine,46
+24/09/2024,101,General Medicine,103
+25/09/2024,101,General Medicine,11
+26/09/2024,101,General Medicine,148
+27/09/2024,101,General Medicine,94
+28/09/2024,101,General Medicine,116
+29/09/2024,101,General Medicine,64
+30/09/2024,101,General Medicine,117
+01/10/2024,101,General Medicine,6
+02/10/2024,101,General Medicine,133
+03/10/2024,101,General Medicine,52
+04/10/2024,101,General Medicine,144
+05/10/2024,101,General Medicine,41
+06/10/2024,101,General Medicine,164
+07/10/2024,101,General Medicine,13
+08/10/2024,101,General Medicine,103
+09/10/2024,101,General Medicine,151
+10/10/2024,101,General Medicine,52
+11/10/2024,101,General Medicine,135
+12/10/2024,101,General Medicine,152
+13/10/2024,101,General Medicine,156
+14/10/2024,101,General Medicine,58
+15/10/2024,101,General Medicine,124
+16/10/2024,101,General Medicine,165
+17/10/2024,101,General Medicine,156
+18/10/2024,101,General Medicine,120
+19/10/2024,101,General Medicine,79
+20/10/2024,101,General Medicine,117
+21/10/2024,101,General Medicine,168
+22/10/2024,101,General Medicine,170
+23/10/2024,101,General Medicine,108
+24/10/2024,101,General Medicine,88
+25/10/2024,101,General Medicine,116
+26/10/2024,101,General Medicine,103
+27/10/2024,101,General Medicine,157
+28/10/2024,101,General Medicine,97
+29/10/2024,101,General Medicine,150
+30/10/2024,101,General Medicine,132
+31/10/2024,101,General Medicine,114
+01/11/2024,101,General Medicine,86
+02/11/2024,101,General Medicine,198
+03/11/2024,101,General Medicine,58
+04/11/2024,101,General Medicine,167
+05/11/2024,101,General Medicine,193
+06/11/2024,101,General Medicine,173
+07/11/2024,101,General Medicine,165
+08/11/2024,101,General Medicine,72
+09/11/2024,101,General Medicine,37
+10/11/2024,101,General Medicine,146
+11/11/2024,101,General Medicine,25
+12/11/2024,101,General Medicine,52
+13/11/2024,101,General Medicine,152
+14/11/2024,101,General Medicine,132
+15/11/2024,101,General Medicine,140
+16/11/2024,101,General Medicine,139
+17/11/2024,101,General Medicine,199
+18/11/2024,101,General Medicine,149
+19/11/2024,101,General Medicine,132
+20/11/2024,101,General Medicine,37
+21/11/2024,101,General Medicine,180
+22/11/2024,101,General Medicine,191
+23/11/2024,101,General Medicine,119
+24/11/2024,101,General Medicine,123
+25/11/2024,101,General Medicine,26
+26/11/2024,101,General Medicine,162
+27/11/2024,101,General Medicine,42
+28/11/2024,101,General Medicine,113
+29/11/2024,101,General Medicine,55
+30/11/2024,101,General Medicine,186
+01/12/2024,101,General Medicine,12
+02/12/2024,101,General Medicine,31
+03/12/2024,101,General Medicine,31
+04/12/2024,101,General Medicine,25
+05/12/2024,101,General Medicine,34
+06/12/2024,101,General Medicine,101
+07/12/2024,101,General Medicine,32
+08/12/2024,101,General Medicine,115
+09/12/2024,101,General Medicine,196
+10/12/2024,101,General Medicine,65
+11/12/2024,101,General Medicine,52
+12/12/2024,101,General Medicine,151
+13/12/2024,101,General Medicine,8
+14/12/2024,101,General Medicine,39
+15/12/2024,101,General Medicine,196
+16/12/2024,101,General Medicine,53
+17/12/2024,101,General Medicine,21
+18/12/2024,101,General Medicine,176
+19/12/2024,101,General Medicine,162
+20/12/2024,101,General Medicine,50
+21/12/2024,101,General Medicine,121
+22/12/2024,101,General Medicine,10
+23/12/2024,101,General Medicine,103
+24/12/2024,101,General Medicine,128
+25/12/2024,101,General Medicine,41
+26/12/2024,101,General Medicine,28
+27/12/2024,101,General Medicine,97
+28/12/2024,101,General Medicine,50
+29/12/2024,101,General Medicine,185
+30/12/2024,101,General Medicine,99
+31/12/2024,101,General Medicine,103
+01/01/2024,102,Pediatrics,192
+02/01/2024,102,Pediatrics,120
+03/01/2024,102,Pediatrics,195
+04/01/2024,102,Pediatrics,164
+05/01/2024,102,Pediatrics,165
+06/01/2024,102,Pediatrics,71
+07/01/2024,102,Pediatrics,132
+08/01/2024,102,Pediatrics,22
+09/01/2024,102,Pediatrics,29
+10/01/2024,102,Pediatrics,58
+11/01/2024,102,Pediatrics,62
+12/01/2024,102,Pediatrics,71
+13/01/2024,102,Pediatrics,108
+14/01/2024,102,Pediatrics,178
+15/01/2024,102,Pediatrics,28
+16/01/2024,102,Pediatrics,118
+17/01/2024,102,Pediatrics,36
+18/01/2024,102,Pediatrics,179
+19/01/2024,102,Pediatrics,90
+20/01/2024,102,Pediatrics,155
+21/01/2024,102,Pediatrics,198
+22/01/2024,102,Pediatrics,131
+23/01/2024,102,Pediatrics,159
+24/01/2024,102,Pediatrics,134
+25/01/2024,102,Pediatrics,21
+26/01/2024,102,Pediatrics,108
+27/01/2024,102,Pediatrics,165
+28/01/2024,102,Pediatrics,141
+29/01/2024,102,Pediatrics,47
+30/01/2024,102,Pediatrics,180
+31/01/2024,102,Pediatrics,43
+01/02/2024,102,Pediatrics,174
+02/02/2024,102,Pediatrics,30
+03/02/2024,102,Pediatrics,103
+04/02/2024,102,Pediatrics,54
+05/02/2024,102,Pediatrics,157
+06/02/2024,102,Pediatrics,156
+07/02/2024,102,Pediatrics,17
+08/02/2024,102,Pediatrics,64
+09/02/2024,102,Pediatrics,139
+10/02/2024,102,Pediatrics,61
+11/02/2024,102,Pediatrics,40
+12/02/2024,102,Pediatrics,177
+13/02/2024,102,Pediatrics,24
+14/02/2024,102,Pediatrics,69
+15/02/2024,102,Pediatrics,12
+16/02/2024,102,Pediatrics,148
+17/02/2024,102,Pediatrics,146
+18/02/2024,102,Pediatrics,119
+19/02/2024,102,Pediatrics,147
+20/02/2024,102,Pediatrics,96
+21/02/2024,102,Pediatrics,102
+22/02/2024,102,Pediatrics,70
+23/02/2024,102,Pediatrics,36
+24/02/2024,102,Pediatrics,195
+25/02/2024,102,Pediatrics,90
+26/02/2024,102,Pediatrics,55
+27/02/2024,102,Pediatrics,157
+28/02/2024,102,Pediatrics,190
+29/02/2024,102,Pediatrics,67
+01/03/2024,102,Pediatrics,194
+02/03/2024,102,Pediatrics,129
+03/03/2024,102,Pediatrics,154
+04/03/2024,102,Pediatrics,62
+05/03/2024,102,Pediatrics,62
+06/03/2024,102,Pediatrics,90
+07/03/2024,102,Pediatrics,53
+08/03/2024,102,Pediatrics,184
+09/03/2024,102,Pediatrics,174
+10/03/2024,102,Pediatrics,74
+11/03/2024,102,Pediatrics,19
+12/03/2024,102,Pediatrics,58
+13/03/2024,102,Pediatrics,192
+14/03/2024,102,Pediatrics,105
+15/03/2024,102,Pediatrics,12
+16/03/2024,102,Pediatrics,57
+17/03/2024,102,Pediatrics,64
+18/03/2024,102,Pediatrics,112
+19/03/2024,102,Pediatrics,9
+20/03/2024,102,Pediatrics,107
+21/03/2024,102,Pediatrics,10
+22/03/2024,102,Pediatrics,113
+23/03/2024,102,Pediatrics,120
+24/03/2024,102,Pediatrics,98
+25/03/2024,102,Pediatrics,51
+26/03/2024,102,Pediatrics,103
+27/03/2024,102,Pediatrics,59
+28/03/2024,102,Pediatrics,172
+29/03/2024,102,Pediatrics,56
+30/03/2024,102,Pediatrics,148
+31/03/2024,102,Pediatrics,17
+01/04/2024,102,Pediatrics,118
+02/04/2024,102,Pediatrics,128
+03/04/2024,102,Pediatrics,110
+04/04/2024,102,Pediatrics,162
+05/04/2024,102,Pediatrics,151
+06/04/2024,102,Pediatrics,149
+07/04/2024,102,Pediatrics,124
+08/04/2024,102,Pediatrics,67
+09/04/2024,102,Pediatrics,23
+10/04/2024,102,Pediatrics,96
+11/04/2024,102,Pediatrics,62
+12/04/2024,102,Pediatrics,187
+13/04/2024,102,Pediatrics,94
+14/04/2024,102,Pediatrics,121
+15/04/2024,102,Pediatrics,66
+16/04/2024,102,Pediatrics,27
+17/04/2024,102,Pediatrics,131
+18/04/2024,102,Pediatrics,141
+19/04/2024,102,Pediatrics,144
+20/04/2024,102,Pediatrics,133
+21/04/2024,102,Pediatrics,62
+22/04/2024,102,Pediatrics,126
+23/04/2024,102,Pediatrics,5
+24/04/2024,102,Pediatrics,38
+25/04/2024,102,Pediatrics,100
+26/04/2024,102,Pediatrics,130
+27/04/2024,102,Pediatrics,122
+28/04/2024,102,Pediatrics,52
+29/04/2024,102,Pediatrics,93
+30/04/2024,102,Pediatrics,121
+01/05/2024,102,Pediatrics,133
+02/05/2024,102,Pediatrics,20
+03/05/2024,102,Pediatrics,193
+04/05/2024,102,Pediatrics,196
+05/05/2024,102,Pediatrics,195
+06/05/2024,102,Pediatrics,73
+07/05/2024,102,Pediatrics,26
+08/05/2024,102,Pediatrics,97
+09/05/2024,102,Pediatrics,199
+10/05/2024,102,Pediatrics,80
+11/05/2024,102,Pediatrics,158
+12/05/2024,102,Pediatrics,148
+13/05/2024,102,Pediatrics,183
+14/05/2024,102,Pediatrics,90
+15/05/2024,102,Pediatrics,189
+16/05/2024,102,Pediatrics,33
+17/05/2024,102,Pediatrics,73
+18/05/2024,102,Pediatrics,51
+19/05/2024,102,Pediatrics,98
+20/05/2024,102,Pediatrics,194
+21/05/2024,102,Pediatrics,148
+22/05/2024,102,Pediatrics,180
+23/05/2024,102,Pediatrics,89
+24/05/2024,102,Pediatrics,43
+25/05/2024,102,Pediatrics,104
+26/05/2024,102,Pediatrics,37
+27/05/2024,102,Pediatrics,105
+28/05/2024,102,Pediatrics,27
+29/05/2024,102,Pediatrics,14
+30/05/2024,102,Pediatrics,73
+31/05/2024,102,Pediatrics,104
+01/06/2024,102,Pediatrics,38
+02/06/2024,102,Pediatrics,184
+03/06/2024,102,Pediatrics,142
+04/06/2024,102,Pediatrics,151
+05/06/2024,102,Pediatrics,190
+06/06/2024,102,Pediatrics,100
+07/06/2024,102,Pediatrics,5
+08/06/2024,102,Pediatrics,73
+09/06/2024,102,Pediatrics,8
+10/06/2024,102,Pediatrics,20
+11/06/2024,102,Pediatrics,28
+12/06/2024,102,Pediatrics,84
+13/06/2024,102,Pediatrics,6
+14/06/2024,102,Pediatrics,132
+15/06/2024,102,Pediatrics,164
+16/06/2024,102,Pediatrics,88
+17/06/2024,102,Pediatrics,156
+18/06/2024,102,Pediatrics,144
+19/06/2024,102,Pediatrics,182
+20/06/2024,102,Pediatrics,167
+21/06/2024,102,Pediatrics,128
+22/06/2024,102,Pediatrics,37
+23/06/2024,102,Pediatrics,165
+24/06/2024,102,Pediatrics,193
+25/06/2024,102,Pediatrics,183
+26/06/2024,102,Pediatrics,175
+27/06/2024,102,Pediatrics,105
+28/06/2024,102,Pediatrics,16
+29/06/2024,102,Pediatrics,71
+30/06/2024,102,Pediatrics,69
+01/07/2024,102,Pediatrics,165
+02/07/2024,102,Pediatrics,172
+03/07/2024,102,Pediatrics,78
+04/07/2024,102,Pediatrics,47
+05/07/2024,102,Pediatrics,48
+06/07/2024,102,Pediatrics,33
+07/07/2024,102,Pediatrics,145
+08/07/2024,102,Pediatrics,16
+09/07/2024,102,Pediatrics,99
+10/07/2024,102,Pediatrics,50
+11/07/2024,102,Pediatrics,134
+12/07/2024,102,Pediatrics,39
+13/07/2024,102,Pediatrics,85
+14/07/2024,102,Pediatrics,94
+15/07/2024,102,Pediatrics,12
+16/07/2024,102,Pediatrics,97
+17/07/2024,102,Pediatrics,158
+18/07/2024,102,Pediatrics,94
+19/07/2024,102,Pediatrics,166
+20/07/2024,102,Pediatrics,119
+21/07/2024,102,Pediatrics,109
+22/07/2024,102,Pediatrics,139
+23/07/2024,102,Pediatrics,62
+24/07/2024,102,Pediatrics,118
+25/07/2024,102,Pediatrics,79
+26/07/2024,102,Pediatrics,161
+27/07/2024,102,Pediatrics,124
+28/07/2024,102,Pediatrics,168
+29/07/2024,102,Pediatrics,25
+30/07/2024,102,Pediatrics,168
+31/07/2024,102,Pediatrics,142
+01/08/2024,102,Pediatrics,105
+02/08/2024,102,Pediatrics,156
+03/08/2024,102,Pediatrics,196
+04/08/2024,102,Pediatrics,181
+05/08/2024,102,Pediatrics,103
+06/08/2024,102,Pediatrics,40
+07/08/2024,102,Pediatrics,100
+08/08/2024,102,Pediatrics,156
+09/08/2024,102,Pediatrics,155
+10/08/2024,102,Pediatrics,194
+11/08/2024,102,Pediatrics,41
+12/08/2024,102,Pediatrics,16
+13/08/2024,102,Pediatrics,117
+14/08/2024,102,Pediatrics,187
+15/08/2024,102,Pediatrics,17
+16/08/2024,102,Pediatrics,27
+17/08/2024,102,Pediatrics,103
+18/08/2024,102,Pediatrics,109
+19/08/2024,102,Pediatrics,34
+20/08/2024,102,Pediatrics,21
+21/08/2024,102,Pediatrics,117
+22/08/2024,102,Pediatrics,66
+23/08/2024,102,Pediatrics,88
+24/08/2024,102,Pediatrics,116
+25/08/2024,102,Pediatrics,90
+26/08/2024,102,Pediatrics,145
+27/08/2024,102,Pediatrics,191
+28/08/2024,102,Pediatrics,23
+29/08/2024,102,Pediatrics,181
+30/08/2024,102,Pediatrics,104
+31/08/2024,102,Pediatrics,144
+01/09/2024,102,Pediatrics,193
+02/09/2024,102,Pediatrics,151
+03/09/2024,102,Pediatrics,80
+04/09/2024,102,Pediatrics,13
+05/09/2024,102,Pediatrics,32
+06/09/2024,102,Pediatrics,132
+07/09/2024,102,Pediatrics,56
+08/09/2024,102,Pediatrics,87
+09/09/2024,102,Pediatrics,115
+10/09/2024,102,Pediatrics,148
+11/09/2024,102,Pediatrics,121
+12/09/2024,102,Pediatrics,73
+13/09/2024,102,Pediatrics,103
+14/09/2024,102,Pediatrics,144
+15/09/2024,102,Pediatrics,29
+16/09/2024,102,Pediatrics,184
+17/09/2024,102,Pediatrics,127
+18/09/2024,102,Pediatrics,57
+19/09/2024,102,Pediatrics,155
+20/09/2024,102,Pediatrics,148
+21/09/2024,102,Pediatrics,61
+22/09/2024,102,Pediatrics,43
+23/09/2024,102,Pediatrics,113
+24/09/2024,102,Pediatrics,185
+25/09/2024,102,Pediatrics,46
+26/09/2024,102,Pediatrics,190
+27/09/2024,102,Pediatrics,171
+28/09/2024,102,Pediatrics,146
+29/09/2024,102,Pediatrics,126
+30/09/2024,102,Pediatrics,137
+01/10/2024,102,Pediatrics,167
+02/10/2024,102,Pediatrics,79
+03/10/2024,102,Pediatrics,150
+04/10/2024,102,Pediatrics,80
+05/10/2024,102,Pediatrics,13
+06/10/2024,102,Pediatrics,78
+07/10/2024,102,Pediatrics,190
+08/10/2024,102,Pediatrics,149
+09/10/2024,102,Pediatrics,11
+10/10/2024,102,Pediatrics,178
+11/10/2024,102,Pediatrics,145
+12/10/2024,102,Pediatrics,172
+13/10/2024,102,Pediatrics,174
+14/10/2024,102,Pediatrics,141
+15/10/2024,102,Pediatrics,182
+16/10/2024,102,Pediatrics,31
+17/10/2024,102,Pediatrics,126
+18/10/2024,102,Pediatrics,198
+19/10/2024,102,Pediatrics,9
+20/10/2024,102,Pediatrics,33
+21/10/2024,102,Pediatrics,169
+22/10/2024,102,Pediatrics,170
+23/10/2024,102,Pediatrics,87
+24/10/2024,102,Pediatrics,140
+25/10/2024,102,Pediatrics,113
+26/10/2024,102,Pediatrics,69
+27/10/2024,102,Pediatrics,90
+28/10/2024,102,Pediatrics,149
+29/10/2024,102,Pediatrics,75
+30/10/2024,102,Pediatrics,49
+31/10/2024,102,Pediatrics,136
+01/11/2024,102,Pediatrics,40
+02/11/2024,102,Pediatrics,74
+03/11/2024,102,Pediatrics,163
+04/11/2024,102,Pediatrics,23
+05/11/2024,102,Pediatrics,193
+06/11/2024,102,Pediatrics,112
+07/11/2024,102,Pediatrics,186
+08/11/2024,102,Pediatrics,171
+09/11/2024,102,Pediatrics,95
+10/11/2024,102,Pediatrics,94
+11/11/2024,102,Pediatrics,23
+12/11/2024,102,Pediatrics,43
+13/11/2024,102,Pediatrics,130
+14/11/2024,102,Pediatrics,199
+15/11/2024,102,Pediatrics,177
+16/11/2024,102,Pediatrics,145
+17/11/2024,102,Pediatrics,130
+18/11/2024,102,Pediatrics,62
+19/11/2024,102,Pediatrics,152
+20/11/2024,102,Pediatrics,65
+21/11/2024,102,Pediatrics,131
+22/11/2024,102,Pediatrics,109
+23/11/2024,102,Pediatrics,171
+24/11/2024,102,Pediatrics,5
+25/11/2024,102,Pediatrics,135
+26/11/2024,102,Pediatrics,96
+27/11/2024,102,Pediatrics,194
+28/11/2024,102,Pediatrics,195
+29/11/2024,102,Pediatrics,117
+30/11/2024,102,Pediatrics,157
+01/12/2024,102,Pediatrics,60
+02/12/2024,102,Pediatrics,165
+03/12/2024,102,Pediatrics,170
+04/12/2024,102,Pediatrics,121
+05/12/2024,102,Pediatrics,138
+06/12/2024,102,Pediatrics,62
+07/12/2024,102,Pediatrics,48
+08/12/2024,102,Pediatrics,177
+09/12/2024,102,Pediatrics,164
+10/12/2024,102,Pediatrics,177
+11/12/2024,102,Pediatrics,65
+12/12/2024,102,Pediatrics,51
+13/12/2024,102,Pediatrics,153
+14/12/2024,102,Pediatrics,84
+15/12/2024,102,Pediatrics,122
+16/12/2024,102,Pediatrics,168
+17/12/2024,102,Pediatrics,151
+18/12/2024,102,Pediatrics,24
+19/12/2024,102,Pediatrics,189
+20/12/2024,102,Pediatrics,150
+21/12/2024,102,Pediatrics,51
+22/12/2024,102,Pediatrics,53
+23/12/2024,102,Pediatrics,18
+24/12/2024,102,Pediatrics,147
+25/12/2024,102,Pediatrics,163
+26/12/2024,102,Pediatrics,5
+27/12/2024,102,Pediatrics,121
+28/12/2024,102,Pediatrics,58
+29/12/2024,102,Pediatrics,122
+30/12/2024,102,Pediatrics,7
+31/12/2024,102,Pediatrics,148
+01/01/2024,103,Orthopedics,189
+02/01/2024,103,Orthopedics,16
+03/01/2024,103,Orthopedics,78
+04/01/2024,103,Orthopedics,20
+05/01/2024,103,Orthopedics,106
+06/01/2024,103,Orthopedics,156
+07/01/2024,103,Orthopedics,160
+08/01/2024,103,Orthopedics,121
+09/01/2024,103,Orthopedics,12
+10/01/2024,103,Orthopedics,126
+11/01/2024,103,Orthopedics,96
+12/01/2024,103,Orthopedics,168
+13/01/2024,103,Orthopedics,94
+14/01/2024,103,Orthopedics,140
+15/01/2024,103,Orthopedics,190
+16/01/2024,103,Orthopedics,64
+17/01/2024,103,Orthopedics,182
+18/01/2024,103,Orthopedics,32
+19/01/2024,103,Orthopedics,105
+20/01/2024,103,Orthopedics,45
+21/01/2024,103,Orthopedics,196
+22/01/2024,103,Orthopedics,159
+23/01/2024,103,Orthopedics,195
+24/01/2024,103,Orthopedics,149
+25/01/2024,103,Orthopedics,165
+26/01/2024,103,Orthopedics,161
+27/01/2024,103,Orthopedics,145
+28/01/2024,103,Orthopedics,50
+29/01/2024,103,Orthopedics,39
+30/01/2024,103,Orthopedics,138
+31/01/2024,103,Orthopedics,86
+01/02/2024,103,Orthopedics,119
+02/02/2024,103,Orthopedics,51
+03/02/2024,103,Orthopedics,157
+04/02/2024,103,Orthopedics,198
+05/02/2024,103,Orthopedics,14
+06/02/2024,103,Orthopedics,60
+07/02/2024,103,Orthopedics,34
+08/02/2024,103,Orthopedics,113
+09/02/2024,103,Orthopedics,9
+10/02/2024,103,Orthopedics,123
+11/02/2024,103,Orthopedics,37
+12/02/2024,103,Orthopedics,122
+13/02/2024,103,Orthopedics,69
+14/02/2024,103,Orthopedics,150
+15/02/2024,103,Orthopedics,181
+16/02/2024,103,Orthopedics,15
+17/02/2024,103,Orthopedics,89
+18/02/2024,103,Orthopedics,30
+19/02/2024,103,Orthopedics,67
+20/02/2024,103,Orthopedics,90
+21/02/2024,103,Orthopedics,63
+22/02/2024,103,Orthopedics,31
+23/02/2024,103,Orthopedics,181
+24/02/2024,103,Orthopedics,165
+25/02/2024,103,Orthopedics,102
+26/02/2024,103,Orthopedics,109
+27/02/2024,103,Orthopedics,103
+28/02/2024,103,Orthopedics,133
+29/02/2024,103,Orthopedics,153
+01/03/2024,103,Orthopedics,59
+02/03/2024,103,Orthopedics,10
+03/03/2024,103,Orthopedics,99
+04/03/2024,103,Orthopedics,137
+05/03/2024,103,Orthopedics,106
+06/03/2024,103,Orthopedics,7
+07/03/2024,103,Orthopedics,185
+08/03/2024,103,Orthopedics,27
+09/03/2024,103,Orthopedics,57
+10/03/2024,103,Orthopedics,169
+11/03/2024,103,Orthopedics,87
+12/03/2024,103,Orthopedics,149
+13/03/2024,103,Orthopedics,89
+14/03/2024,103,Orthopedics,82
+15/03/2024,103,Orthopedics,114
+16/03/2024,103,Orthopedics,5
+17/03/2024,103,Orthopedics,55
+18/03/2024,103,Orthopedics,177
+19/03/2024,103,Orthopedics,8
+20/03/2024,103,Orthopedics,194
+21/03/2024,103,Orthopedics,197
+22/03/2024,103,Orthopedics,117
+23/03/2024,103,Orthopedics,36
+24/03/2024,103,Orthopedics,38
+25/03/2024,103,Orthopedics,96
+26/03/2024,103,Orthopedics,99
+27/03/2024,103,Orthopedics,76
+28/03/2024,103,Orthopedics,43
+29/03/2024,103,Orthopedics,158
+30/03/2024,103,Orthopedics,166
+31/03/2024,103,Orthopedics,186
+01/04/2024,103,Orthopedics,122
+02/04/2024,103,Orthopedics,7
+03/04/2024,103,Orthopedics,127
+04/04/2024,103,Orthopedics,54
+05/04/2024,103,Orthopedics,16
+06/04/2024,103,Orthopedics,197
+07/04/2024,103,Orthopedics,58
+08/04/2024,103,Orthopedics,137
+09/04/2024,103,Orthopedics,61
+10/04/2024,103,Orthopedics,149
+11/04/2024,103,Orthopedics,116
+12/04/2024,103,Orthopedics,51
+13/04/2024,103,Orthopedics,155
+14/04/2024,103,Orthopedics,89
+15/04/2024,103,Orthopedics,146
+16/04/2024,103,Orthopedics,70
+17/04/2024,103,Orthopedics,79
+18/04/2024,103,Orthopedics,183
+19/04/2024,103,Orthopedics,107
+20/04/2024,103,Orthopedics,170
+21/04/2024,103,Orthopedics,196
+22/04/2024,103,Orthopedics,42
+23/04/2024,103,Orthopedics,54
+24/04/2024,103,Orthopedics,102
+25/04/2024,103,Orthopedics,86
+26/04/2024,103,Orthopedics,34
+27/04/2024,103,Orthopedics,83
+28/04/2024,103,Orthopedics,95
+29/04/2024,103,Orthopedics,183
+30/04/2024,103,Orthopedics,195
+01/05/2024,103,Orthopedics,56
+02/05/2024,103,Orthopedics,170
+03/05/2024,103,Orthopedics,83
+04/05/2024,103,Orthopedics,34
+05/05/2024,103,Orthopedics,110
+06/05/2024,103,Orthopedics,55
+07/05/2024,103,Orthopedics,85
+08/05/2024,103,Orthopedics,137
+09/05/2024,103,Orthopedics,33
+10/05/2024,103,Orthopedics,136
+11/05/2024,103,Orthopedics,142
+12/05/2024,103,Orthopedics,188
+13/05/2024,103,Orthopedics,149
+14/05/2024,103,Orthopedics,78
+15/05/2024,103,Orthopedics,21
+16/05/2024,103,Orthopedics,88
+17/05/2024,103,Orthopedics,73
+18/05/2024,103,Orthopedics,38
+19/05/2024,103,Orthopedics,10
+20/05/2024,103,Orthopedics,57
+21/05/2024,103,Orthopedics,198
+22/05/2024,103,Orthopedics,130
+23/05/2024,103,Orthopedics,47
+24/05/2024,103,Orthopedics,119
+25/05/2024,103,Orthopedics,115
+26/05/2024,103,Orthopedics,155
+27/05/2024,103,Orthopedics,187
+28/05/2024,103,Orthopedics,84
+29/05/2024,103,Orthopedics,99
+30/05/2024,103,Orthopedics,122
+31/05/2024,103,Orthopedics,148
+01/06/2024,103,Orthopedics,12
+02/06/2024,103,Orthopedics,136
+03/06/2024,103,Orthopedics,108
+04/06/2024,103,Orthopedics,136
+05/06/2024,103,Orthopedics,188
+06/06/2024,103,Orthopedics,29
+07/06/2024,103,Orthopedics,199
+08/06/2024,103,Orthopedics,100
+09/06/2024,103,Orthopedics,199
+10/06/2024,103,Orthopedics,159
+11/06/2024,103,Orthopedics,97
+12/06/2024,103,Orthopedics,164
+13/06/2024,103,Orthopedics,182
+14/06/2024,103,Orthopedics,65
+15/06/2024,103,Orthopedics,126
+16/06/2024,103,Orthopedics,55
+17/06/2024,103,Orthopedics,151
+18/06/2024,103,Orthopedics,25
+19/06/2024,103,Orthopedics,9
+20/06/2024,103,Orthopedics,96
+21/06/2024,103,Orthopedics,174
+22/06/2024,103,Orthopedics,65
+23/06/2024,103,Orthopedics,26
+24/06/2024,103,Orthopedics,153
+25/06/2024,103,Orthopedics,74
+26/06/2024,103,Orthopedics,5
+27/06/2024,103,Orthopedics,137
+28/06/2024,103,Orthopedics,16
+29/06/2024,103,Orthopedics,94
+30/06/2024,103,Orthopedics,50
+01/07/2024,103,Orthopedics,38
+02/07/2024,103,Orthopedics,181
+03/07/2024,103,Orthopedics,82
+04/07/2024,103,Orthopedics,49
+05/07/2024,103,Orthopedics,159
+06/07/2024,103,Orthopedics,77
+07/07/2024,103,Orthopedics,30
+08/07/2024,103,Orthopedics,51
+09/07/2024,103,Orthopedics,125
+10/07/2024,103,Orthopedics,60
+11/07/2024,103,Orthopedics,98
+12/07/2024,103,Orthopedics,111
+13/07/2024,103,Orthopedics,67
+14/07/2024,103,Orthopedics,52
+15/07/2024,103,Orthopedics,65
+16/07/2024,103,Orthopedics,85
+17/07/2024,103,Orthopedics,30
+18/07/2024,103,Orthopedics,40
+19/07/2024,103,Orthopedics,5
+20/07/2024,103,Orthopedics,12
+21/07/2024,103,Orthopedics,117
+22/07/2024,103,Orthopedics,103
+23/07/2024,103,Orthopedics,184
+24/07/2024,103,Orthopedics,51
+25/07/2024,103,Orthopedics,131
+26/07/2024,103,Orthopedics,60
+27/07/2024,103,Orthopedics,18
+28/07/2024,103,Orthopedics,32
+29/07/2024,103,Orthopedics,82
+30/07/2024,103,Orthopedics,134
+31/07/2024,103,Orthopedics,113
+01/08/2024,103,Orthopedics,158
+02/08/2024,103,Orthopedics,18
+03/08/2024,103,Orthopedics,191
+04/08/2024,103,Orthopedics,60
+05/08/2024,103,Orthopedics,119
+06/08/2024,103,Orthopedics,11
+07/08/2024,103,Orthopedics,7
+08/08/2024,103,Orthopedics,115
+09/08/2024,103,Orthopedics,155
+10/08/2024,103,Orthopedics,111
+11/08/2024,103,Orthopedics,22
+12/08/2024,103,Orthopedics,42
+13/08/2024,103,Orthopedics,119
+14/08/2024,103,Orthopedics,19
+15/08/2024,103,Orthopedics,196
+16/08/2024,103,Orthopedics,123
+17/08/2024,103,Orthopedics,32
+18/08/2024,103,Orthopedics,43
+19/08/2024,103,Orthopedics,189
+20/08/2024,103,Orthopedics,21
+21/08/2024,103,Orthopedics,90
+22/08/2024,103,Orthopedics,130
+23/08/2024,103,Orthopedics,48
+24/08/2024,103,Orthopedics,29
+25/08/2024,103,Orthopedics,149
+26/08/2024,103,Orthopedics,17
+27/08/2024,103,Orthopedics,29
+28/08/2024,103,Orthopedics,72
+29/08/2024,103,Orthopedics,142
+30/08/2024,103,Orthopedics,71
+31/08/2024,103,Orthopedics,113
+01/09/2024,103,Orthopedics,150
+02/09/2024,103,Orthopedics,115
+03/09/2024,103,Orthopedics,115
+04/09/2024,103,Orthopedics,38
+05/09/2024,103,Orthopedics,115
+06/09/2024,103,Orthopedics,12
+07/09/2024,103,Orthopedics,172
+08/09/2024,103,Orthopedics,117
+09/09/2024,103,Orthopedics,87
+10/09/2024,103,Orthopedics,46
+11/09/2024,103,Orthopedics,173
+12/09/2024,103,Orthopedics,105
+13/09/2024,103,Orthopedics,10
+14/09/2024,103,Orthopedics,184
+15/09/2024,103,Orthopedics,30
+16/09/2024,103,Orthopedics,68
+17/09/2024,103,Orthopedics,191
+18/09/2024,103,Orthopedics,188
+19/09/2024,103,Orthopedics,63
+20/09/2024,103,Orthopedics,113
+21/09/2024,103,Orthopedics,125
+22/09/2024,103,Orthopedics,37
+23/09/2024,103,Orthopedics,185
+24/09/2024,103,Orthopedics,154
+25/09/2024,103,Orthopedics,25
+26/09/2024,103,Orthopedics,74
+27/09/2024,103,Orthopedics,116
+28/09/2024,103,Orthopedics,8
+29/09/2024,103,Orthopedics,98
+30/09/2024,103,Orthopedics,79
+01/10/2024,103,Orthopedics,194
+02/10/2024,103,Orthopedics,66
+03/10/2024,103,Orthopedics,98
+04/10/2024,103,Orthopedics,99
+05/10/2024,103,Orthopedics,156
+06/10/2024,103,Orthopedics,59
+07/10/2024,103,Orthopedics,141
+08/10/2024,103,Orthopedics,135
+09/10/2024,103,Orthopedics,35
+10/10/2024,103,Orthopedics,44
+11/10/2024,103,Orthopedics,40
+12/10/2024,103,Orthopedics,156
+13/10/2024,103,Orthopedics,10
+14/10/2024,103,Orthopedics,70
+15/10/2024,103,Orthopedics,79
+16/10/2024,103,Orthopedics,8
+17/10/2024,103,Orthopedics,83
+18/10/2024,103,Orthopedics,138
+19/10/2024,103,Orthopedics,122
+20/10/2024,103,Orthopedics,117
+21/10/2024,103,Orthopedics,98
+22/10/2024,103,Orthopedics,183
+23/10/2024,103,Orthopedics,66
+24/10/2024,103,Orthopedics,189
+25/10/2024,103,Orthopedics,198
+26/10/2024,103,Orthopedics,83
+27/10/2024,103,Orthopedics,140
+28/10/2024,103,Orthopedics,30
+29/10/2024,103,Orthopedics,183
+30/10/2024,103,Orthopedics,177
+31/10/2024,103,Orthopedics,48
+01/11/2024,103,Orthopedics,137
+02/11/2024,103,Orthopedics,74
+03/11/2024,103,Orthopedics,158
+04/11/2024,103,Orthopedics,122
+05/11/2024,103,Orthopedics,72
+06/11/2024,103,Orthopedics,23
+07/11/2024,103,Orthopedics,24
+08/11/2024,103,Orthopedics,117
+09/11/2024,103,Orthopedics,144
+10/11/2024,103,Orthopedics,51
+11/11/2024,103,Orthopedics,5
+12/11/2024,103,Orthopedics,94
+13/11/2024,103,Orthopedics,146
+14/11/2024,103,Orthopedics,68
+15/11/2024,103,Orthopedics,42
+16/11/2024,103,Orthopedics,41
+17/11/2024,103,Orthopedics,130
+18/11/2024,103,Orthopedics,143
+19/11/2024,103,Orthopedics,104
+20/11/2024,103,Orthopedics,81
+21/11/2024,103,Orthopedics,7
+22/11/2024,103,Orthopedics,165
+23/11/2024,103,Orthopedics,138
+24/11/2024,103,Orthopedics,182
+25/11/2024,103,Orthopedics,14
+26/11/2024,103,Orthopedics,9
+27/11/2024,103,Orthopedics,155
+28/11/2024,103,Orthopedics,142
+29/11/2024,103,Orthopedics,176
+30/11/2024,103,Orthopedics,134
+01/12/2024,103,Orthopedics,17
+02/12/2024,103,Orthopedics,172
+03/12/2024,103,Orthopedics,134
+04/12/2024,103,Orthopedics,88
+05/12/2024,103,Orthopedics,69
+06/12/2024,103,Orthopedics,67
+07/12/2024,103,Orthopedics,105
+08/12/2024,103,Orthopedics,77
+09/12/2024,103,Orthopedics,21
+10/12/2024,103,Orthopedics,13
+11/12/2024,103,Orthopedics,147
+12/12/2024,103,Orthopedics,156
+13/12/2024,103,Orthopedics,42
+14/12/2024,103,Orthopedics,167
+15/12/2024,103,Orthopedics,98
+16/12/2024,103,Orthopedics,99
+17/12/2024,103,Orthopedics,53
+18/12/2024,103,Orthopedics,73
+19/12/2024,103,Orthopedics,66
+20/12/2024,103,Orthopedics,192
+21/12/2024,103,Orthopedics,182
+22/12/2024,103,Orthopedics,82
+23/12/2024,103,Orthopedics,121
+24/12/2024,103,Orthopedics,124
+25/12/2024,103,Orthopedics,141
+26/12/2024,103,Orthopedics,166
+27/12/2024,103,Orthopedics,80
+28/12/2024,103,Orthopedics,39
+29/12/2024,103,Orthopedics,5
+30/12/2024,103,Orthopedics,44
+31/12/2024,103,Orthopedics,68
+01/01/2024,104,Cardiology,154
+02/01/2024,104,Cardiology,64
+03/01/2024,104,Cardiology,68
+04/01/2024,104,Cardiology,97
+05/01/2024,104,Cardiology,76
+06/01/2024,104,Cardiology,15
+07/01/2024,104,Cardiology,109
+08/01/2024,104,Cardiology,18
+09/01/2024,104,Cardiology,64
+10/01/2024,104,Cardiology,34
+11/01/2024,104,Cardiology,39
+12/01/2024,104,Cardiology,169
+13/01/2024,104,Cardiology,9
+14/01/2024,104,Cardiology,87
+15/01/2024,104,Cardiology,127
+16/01/2024,104,Cardiology,82
+17/01/2024,104,Cardiology,158
+18/01/2024,104,Cardiology,66
+19/01/2024,104,Cardiology,136
+20/01/2024,104,Cardiology,93
+21/01/2024,104,Cardiology,46
+22/01/2024,104,Cardiology,93
+23/01/2024,104,Cardiology,150
+24/01/2024,104,Cardiology,44
+25/01/2024,104,Cardiology,76
+26/01/2024,104,Cardiology,43
+27/01/2024,104,Cardiology,108
+28/01/2024,104,Cardiology,18
+29/01/2024,104,Cardiology,36
+30/01/2024,104,Cardiology,183
+31/01/2024,104,Cardiology,129
+01/02/2024,104,Cardiology,170
+02/02/2024,104,Cardiology,101
+03/02/2024,104,Cardiology,27
+04/02/2024,104,Cardiology,67
+05/02/2024,104,Cardiology,147
+06/02/2024,104,Cardiology,157
+07/02/2024,104,Cardiology,149
+08/02/2024,104,Cardiology,198
+09/02/2024,104,Cardiology,57
+10/02/2024,104,Cardiology,108
+11/02/2024,104,Cardiology,108
+12/02/2024,104,Cardiology,183
+13/02/2024,104,Cardiology,43
+14/02/2024,104,Cardiology,183
+15/02/2024,104,Cardiology,138
+16/02/2024,104,Cardiology,71
+17/02/2024,104,Cardiology,139
+18/02/2024,104,Cardiology,183
+19/02/2024,104,Cardiology,46
+20/02/2024,104,Cardiology,196
+21/02/2024,104,Cardiology,19
+22/02/2024,104,Cardiology,115
+23/02/2024,104,Cardiology,161
+24/02/2024,104,Cardiology,37
+25/02/2024,104,Cardiology,159
+26/02/2024,104,Cardiology,168
+27/02/2024,104,Cardiology,161
+28/02/2024,104,Cardiology,42
+29/02/2024,104,Cardiology,189
+01/03/2024,104,Cardiology,101
+02/03/2024,104,Cardiology,159
+03/03/2024,104,Cardiology,187
+04/03/2024,104,Cardiology,37
+05/03/2024,104,Cardiology,90
+06/03/2024,104,Cardiology,70
+07/03/2024,104,Cardiology,14
+08/03/2024,104,Cardiology,9
+09/03/2024,104,Cardiology,127
+10/03/2024,104,Cardiology,78
+11/03/2024,104,Cardiology,101
+12/03/2024,104,Cardiology,122
+13/03/2024,104,Cardiology,42
+14/03/2024,104,Cardiology,145
+15/03/2024,104,Cardiology,163
+16/03/2024,104,Cardiology,51
+17/03/2024,104,Cardiology,113
+18/03/2024,104,Cardiology,184
+19/03/2024,104,Cardiology,188
+20/03/2024,104,Cardiology,19
+21/03/2024,104,Cardiology,161
+22/03/2024,104,Cardiology,140
+23/03/2024,104,Cardiology,9
+24/03/2024,104,Cardiology,161
+25/03/2024,104,Cardiology,51
+26/03/2024,104,Cardiology,72
+27/03/2024,104,Cardiology,80
+28/03/2024,104,Cardiology,177
+29/03/2024,104,Cardiology,134
+30/03/2024,104,Cardiology,159
+31/03/2024,104,Cardiology,99
+01/04/2024,104,Cardiology,119
+02/04/2024,104,Cardiology,168
+03/04/2024,104,Cardiology,40
+04/04/2024,104,Cardiology,30
+05/04/2024,104,Cardiology,47
+06/04/2024,104,Cardiology,31
+07/04/2024,104,Cardiology,73
+08/04/2024,104,Cardiology,152
+09/04/2024,104,Cardiology,15
+10/04/2024,104,Cardiology,78
+11/04/2024,104,Cardiology,108
+12/04/2024,104,Cardiology,42
+13/04/2024,104,Cardiology,138
+14/04/2024,104,Cardiology,27
+15/04/2024,104,Cardiology,51
+16/04/2024,104,Cardiology,94
+17/04/2024,104,Cardiology,50
+18/04/2024,104,Cardiology,111
+19/04/2024,104,Cardiology,144
+20/04/2024,104,Cardiology,145
+21/04/2024,104,Cardiology,108
+22/04/2024,104,Cardiology,194
+23/04/2024,104,Cardiology,115
+24/04/2024,104,Cardiology,108
+25/04/2024,104,Cardiology,64
+26/04/2024,104,Cardiology,175
+27/04/2024,104,Cardiology,104
+28/04/2024,104,Cardiology,72
+29/04/2024,104,Cardiology,137
+30/04/2024,104,Cardiology,124
+01/05/2024,104,Cardiology,41
+02/05/2024,104,Cardiology,76
+03/05/2024,104,Cardiology,131
+04/05/2024,104,Cardiology,110
+05/05/2024,104,Cardiology,96
+06/05/2024,104,Cardiology,35
+07/05/2024,104,Cardiology,126
+08/05/2024,104,Cardiology,141
+09/05/2024,104,Cardiology,55
+10/05/2024,104,Cardiology,33
+11/05/2024,104,Cardiology,44
+12/05/2024,104,Cardiology,45
+13/05/2024,104,Cardiology,15
+14/05/2024,104,Cardiology,155
+15/05/2024,104,Cardiology,5
+16/05/2024,104,Cardiology,50
+17/05/2024,104,Cardiology,105
+18/05/2024,104,Cardiology,153
+19/05/2024,104,Cardiology,94
+20/05/2024,104,Cardiology,114
+21/05/2024,104,Cardiology,168
+22/05/2024,104,Cardiology,186
+23/05/2024,104,Cardiology,61
+24/05/2024,104,Cardiology,5
+25/05/2024,104,Cardiology,67
+26/05/2024,104,Cardiology,186
+27/05/2024,104,Cardiology,59
+28/05/2024,104,Cardiology,119
+29/05/2024,104,Cardiology,172
+30/05/2024,104,Cardiology,147
+31/05/2024,104,Cardiology,153
+01/06/2024,104,Cardiology,179
+02/06/2024,104,Cardiology,57
+03/06/2024,104,Cardiology,141
+04/06/2024,104,Cardiology,184
+05/06/2024,104,Cardiology,61
+06/06/2024,104,Cardiology,121
+07/06/2024,104,Cardiology,158
+08/06/2024,104,Cardiology,173
+09/06/2024,104,Cardiology,39
+10/06/2024,104,Cardiology,67
+11/06/2024,104,Cardiology,29
+12/06/2024,104,Cardiology,94
+13/06/2024,104,Cardiology,79
+14/06/2024,104,Cardiology,42
+15/06/2024,104,Cardiology,134
+16/06/2024,104,Cardiology,139
+17/06/2024,104,Cardiology,166
+18/06/2024,104,Cardiology,95
+19/06/2024,104,Cardiology,21
+20/06/2024,104,Cardiology,132
+21/06/2024,104,Cardiology,175
+22/06/2024,104,Cardiology,191
+23/06/2024,104,Cardiology,112
+24/06/2024,104,Cardiology,183
+25/06/2024,104,Cardiology,186
+26/06/2024,104,Cardiology,156
+27/06/2024,104,Cardiology,29
+28/06/2024,104,Cardiology,184
+29/06/2024,104,Cardiology,92
+30/06/2024,104,Cardiology,165
+01/07/2024,104,Cardiology,181
+02/07/2024,104,Cardiology,33
+03/07/2024,104,Cardiology,67
+04/07/2024,104,Cardiology,154
+05/07/2024,104,Cardiology,158
+06/07/2024,104,Cardiology,160
+07/07/2024,104,Cardiology,118
+08/07/2024,104,Cardiology,53
+09/07/2024,104,Cardiology,85
+10/07/2024,104,Cardiology,88
+11/07/2024,104,Cardiology,109
+12/07/2024,104,Cardiology,181
+13/07/2024,104,Cardiology,152
+14/07/2024,104,Cardiology,122
+15/07/2024,104,Cardiology,90
+16/07/2024,104,Cardiology,67
+17/07/2024,104,Cardiology,193
+18/07/2024,104,Cardiology,108
+19/07/2024,104,Cardiology,53
+20/07/2024,104,Cardiology,75
+21/07/2024,104,Cardiology,5
+22/07/2024,104,Cardiology,145
+23/07/2024,104,Cardiology,183
+24/07/2024,104,Cardiology,127
+25/07/2024,104,Cardiology,188
+26/07/2024,104,Cardiology,66
+27/07/2024,104,Cardiology,36
+28/07/2024,104,Cardiology,162
+29/07/2024,104,Cardiology,33
+30/07/2024,104,Cardiology,53
+31/07/2024,104,Cardiology,177
+01/08/2024,104,Cardiology,34
+02/08/2024,104,Cardiology,148
+03/08/2024,104,Cardiology,172
+04/08/2024,104,Cardiology,23
+05/08/2024,104,Cardiology,22
+06/08/2024,104,Cardiology,5
+07/08/2024,104,Cardiology,82
+08/08/2024,104,Cardiology,119
+09/08/2024,104,Cardiology,179
+10/08/2024,104,Cardiology,198
+11/08/2024,104,Cardiology,117
+12/08/2024,104,Cardiology,118
+13/08/2024,104,Cardiology,170
+14/08/2024,104,Cardiology,183
+15/08/2024,104,Cardiology,67
+16/08/2024,104,Cardiology,136
+17/08/2024,104,Cardiology,133
+18/08/2024,104,Cardiology,12
+19/08/2024,104,Cardiology,161
+20/08/2024,104,Cardiology,59
+21/08/2024,104,Cardiology,107
+22/08/2024,104,Cardiology,135
+23/08/2024,104,Cardiology,36
+24/08/2024,104,Cardiology,14
+25/08/2024,104,Cardiology,114
+26/08/2024,104,Cardiology,166
+27/08/2024,104,Cardiology,128
+28/08/2024,104,Cardiology,91
+29/08/2024,104,Cardiology,59
+30/08/2024,104,Cardiology,36
+31/08/2024,104,Cardiology,182
+01/09/2024,104,Cardiology,139
+02/09/2024,104,Cardiology,97
+03/09/2024,104,Cardiology,12
+04/09/2024,104,Cardiology,69
+05/09/2024,104,Cardiology,61
+06/09/2024,104,Cardiology,71
+07/09/2024,104,Cardiology,191
+08/09/2024,104,Cardiology,76
+09/09/2024,104,Cardiology,58
+10/09/2024,104,Cardiology,71
+11/09/2024,104,Cardiology,55
+12/09/2024,104,Cardiology,101
+13/09/2024,104,Cardiology,96
+14/09/2024,104,Cardiology,12
+15/09/2024,104,Cardiology,166
+16/09/2024,104,Cardiology,39
+17/09/2024,104,Cardiology,100
+18/09/2024,104,Cardiology,92
+19/09/2024,104,Cardiology,82
+20/09/2024,104,Cardiology,36
+21/09/2024,104,Cardiology,124
+22/09/2024,104,Cardiology,50
+23/09/2024,104,Cardiology,148
+24/09/2024,104,Cardiology,169
+25/09/2024,104,Cardiology,186
+26/09/2024,104,Cardiology,146
+27/09/2024,104,Cardiology,59
+28/09/2024,104,Cardiology,180
+29/09/2024,104,Cardiology,11
+30/09/2024,104,Cardiology,78
+01/10/2024,104,Cardiology,11
+02/10/2024,104,Cardiology,165
+03/10/2024,104,Cardiology,155
+04/10/2024,104,Cardiology,89
+05/10/2024,104,Cardiology,151
+06/10/2024,104,Cardiology,116
+07/10/2024,104,Cardiology,129
+08/10/2024,104,Cardiology,151
+09/10/2024,104,Cardiology,40
+10/10/2024,104,Cardiology,33
+11/10/2024,104,Cardiology,192
+12/10/2024,104,Cardiology,86
+13/10/2024,104,Cardiology,6
+14/10/2024,104,Cardiology,133
+15/10/2024,104,Cardiology,51
+16/10/2024,104,Cardiology,152
+17/10/2024,104,Cardiology,15
+18/10/2024,104,Cardiology,134
+19/10/2024,104,Cardiology,199
+20/10/2024,104,Cardiology,123
+21/10/2024,104,Cardiology,144
+22/10/2024,104,Cardiology,24
+23/10/2024,104,Cardiology,9
+24/10/2024,104,Cardiology,41
+25/10/2024,104,Cardiology,170
+26/10/2024,104,Cardiology,141
+27/10/2024,104,Cardiology,57
+28/10/2024,104,Cardiology,176
+29/10/2024,104,Cardiology,103
+30/10/2024,104,Cardiology,90
+31/10/2024,104,Cardiology,112
+01/11/2024,104,Cardiology,28
+02/11/2024,104,Cardiology,85
+03/11/2024,104,Cardiology,162
+04/11/2024,104,Cardiology,124
+05/11/2024,104,Cardiology,63
+06/11/2024,104,Cardiology,132
+07/11/2024,104,Cardiology,118
+08/11/2024,104,Cardiology,119
+09/11/2024,104,Cardiology,18
+10/11/2024,104,Cardiology,13
+11/11/2024,104,Cardiology,44
+12/11/2024,104,Cardiology,198
+13/11/2024,104,Cardiology,29
+14/11/2024,104,Cardiology,107
+15/11/2024,104,Cardiology,26
+16/11/2024,104,Cardiology,8
+17/11/2024,104,Cardiology,158
+18/11/2024,104,Cardiology,190
+19/11/2024,104,Cardiology,33
+20/11/2024,104,Cardiology,113
+21/11/2024,104,Cardiology,102
+22/11/2024,104,Cardiology,41
+23/11/2024,104,Cardiology,79
+24/11/2024,104,Cardiology,74
+25/11/2024,104,Cardiology,150
+26/11/2024,104,Cardiology,132
+27/11/2024,104,Cardiology,89
+28/11/2024,104,Cardiology,46
+29/11/2024,104,Cardiology,104
+30/11/2024,104,Cardiology,45
+01/12/2024,104,Cardiology,170
+02/12/2024,104,Cardiology,38
+03/12/2024,104,Cardiology,21
+04/12/2024,104,Cardiology,169
+05/12/2024,104,Cardiology,157
+06/12/2024,104,Cardiology,126
+07/12/2024,104,Cardiology,80
+08/12/2024,104,Cardiology,91
+09/12/2024,104,Cardiology,121
+10/12/2024,104,Cardiology,110
+11/12/2024,104,Cardiology,90
+12/12/2024,104,Cardiology,31
+13/12/2024,104,Cardiology,61
+14/12/2024,104,Cardiology,35
+15/12/2024,104,Cardiology,138
+16/12/2024,104,Cardiology,172
+17/12/2024,104,Cardiology,102
+18/12/2024,104,Cardiology,16
+19/12/2024,104,Cardiology,57
+20/12/2024,104,Cardiology,142
+21/12/2024,104,Cardiology,177
+22/12/2024,104,Cardiology,149
+23/12/2024,104,Cardiology,158
+24/12/2024,104,Cardiology,194
+25/12/2024,104,Cardiology,126
+26/12/2024,104,Cardiology,50
+27/12/2024,104,Cardiology,68
+28/12/2024,104,Cardiology,134
+29/12/2024,104,Cardiology,58
+30/12/2024,104,Cardiology,111
+31/12/2024,104,Cardiology,197
+01/01/2024,105,Radiology,55
+02/01/2024,105,Radiology,185
+03/01/2024,105,Radiology,40
+04/01/2024,105,Radiology,119
+05/01/2024,105,Radiology,30
+06/01/2024,105,Radiology,33
+07/01/2024,105,Radiology,153
+08/01/2024,105,Radiology,15
+09/01/2024,105,Radiology,44
+10/01/2024,105,Radiology,15
+11/01/2024,105,Radiology,168
+12/01/2024,105,Radiology,117
+13/01/2024,105,Radiology,191
+14/01/2024,105,Radiology,43
+15/01/2024,105,Radiology,58
+16/01/2024,105,Radiology,102
+17/01/2024,105,Radiology,59
+18/01/2024,105,Radiology,115
+19/01/2024,105,Radiology,156
+20/01/2024,105,Radiology,154
+21/01/2024,105,Radiology,73
+22/01/2024,105,Radiology,60
+23/01/2024,105,Radiology,37
+24/01/2024,105,Radiology,40
+25/01/2024,105,Radiology,152
+26/01/2024,105,Radiology,85
+27/01/2024,105,Radiology,194
+28/01/2024,105,Radiology,113
+29/01/2024,105,Radiology,158
+30/01/2024,105,Radiology,198
+31/01/2024,105,Radiology,77
+01/02/2024,105,Radiology,44
+02/02/2024,105,Radiology,21
+03/02/2024,105,Radiology,133
+04/02/2024,105,Radiology,65
+05/02/2024,105,Radiology,175
+06/02/2024,105,Radiology,108
+07/02/2024,105,Radiology,46
+08/02/2024,105,Radiology,29
+09/02/2024,105,Radiology,43
+10/02/2024,105,Radiology,39
+11/02/2024,105,Radiology,135
+12/02/2024,105,Radiology,112
+13/02/2024,105,Radiology,176
+14/02/2024,105,Radiology,183
+15/02/2024,105,Radiology,106
+16/02/2024,105,Radiology,102
+17/02/2024,105,Radiology,16
+18/02/2024,105,Radiology,23
+19/02/2024,105,Radiology,105
+20/02/2024,105,Radiology,48
+21/02/2024,105,Radiology,191
+22/02/2024,105,Radiology,53
+23/02/2024,105,Radiology,193
+24/02/2024,105,Radiology,21
+25/02/2024,105,Radiology,78
+26/02/2024,105,Radiology,61
+27/02/2024,105,Radiology,59
+28/02/2024,105,Radiology,51
+29/02/2024,105,Radiology,16
+01/03/2024,105,Radiology,66
+02/03/2024,105,Radiology,84
+03/03/2024,105,Radiology,87
+04/03/2024,105,Radiology,12
+05/03/2024,105,Radiology,153
+06/03/2024,105,Radiology,85
+07/03/2024,105,Radiology,122
+08/03/2024,105,Radiology,29
+09/03/2024,105,Radiology,93
+10/03/2024,105,Radiology,16
+11/03/2024,105,Radiology,147
+12/03/2024,105,Radiology,63
+13/03/2024,105,Radiology,158
+14/03/2024,105,Radiology,113
+15/03/2024,105,Radiology,30
+16/03/2024,105,Radiology,51
+17/03/2024,105,Radiology,36
+18/03/2024,105,Radiology,14
+19/03/2024,105,Radiology,20
+20/03/2024,105,Radiology,149
+21/03/2024,105,Radiology,155
+22/03/2024,105,Radiology,30
+23/03/2024,105,Radiology,90
+24/03/2024,105,Radiology,139
+25/03/2024,105,Radiology,18
+26/03/2024,105,Radiology,83
+27/03/2024,105,Radiology,121
+28/03/2024,105,Radiology,11
+29/03/2024,105,Radiology,141
+30/03/2024,105,Radiology,119
+31/03/2024,105,Radiology,180
+01/04/2024,105,Radiology,76
+02/04/2024,105,Radiology,63
+03/04/2024,105,Radiology,86
+04/04/2024,105,Radiology,120
+05/04/2024,105,Radiology,171
+06/04/2024,105,Radiology,150
+07/04/2024,105,Radiology,191
+08/04/2024,105,Radiology,107
+09/04/2024,105,Radiology,21
+10/04/2024,105,Radiology,18
+11/04/2024,105,Radiology,163
+12/04/2024,105,Radiology,156
+13/04/2024,105,Radiology,112
+14/04/2024,105,Radiology,192
+15/04/2024,105,Radiology,49
+16/04/2024,105,Radiology,102
+17/04/2024,105,Radiology,135
+18/04/2024,105,Radiology,41
+19/04/2024,105,Radiology,175
+20/04/2024,105,Radiology,172
+21/04/2024,105,Radiology,187
+22/04/2024,105,Radiology,112
+23/04/2024,105,Radiology,43
+24/04/2024,105,Radiology,19
+25/04/2024,105,Radiology,124
+26/04/2024,105,Radiology,8
+27/04/2024,105,Radiology,97
+28/04/2024,105,Radiology,157
+29/04/2024,105,Radiology,145
+30/04/2024,105,Radiology,165
+01/05/2024,105,Radiology,20
+02/05/2024,105,Radiology,174
+03/05/2024,105,Radiology,112
+04/05/2024,105,Radiology,130
+05/05/2024,105,Radiology,198
+06/05/2024,105,Radiology,59
+07/05/2024,105,Radiology,174
+08/05/2024,105,Radiology,38
+09/05/2024,105,Radiology,162
+10/05/2024,105,Radiology,17
+11/05/2024,105,Radiology,145
+12/05/2024,105,Radiology,22
+13/05/2024,105,Radiology,164
+14/05/2024,105,Radiology,100
+15/05/2024,105,Radiology,127
+16/05/2024,105,Radiology,43
+17/05/2024,105,Radiology,50
+18/05/2024,105,Radiology,33
+19/05/2024,105,Radiology,194
+20/05/2024,105,Radiology,66
+21/05/2024,105,Radiology,189
+22/05/2024,105,Radiology,20
+23/05/2024,105,Radiology,188
+24/05/2024,105,Radiology,125
+25/05/2024,105,Radiology,14
+26/05/2024,105,Radiology,162
+27/05/2024,105,Radiology,157
+28/05/2024,105,Radiology,107
+29/05/2024,105,Radiology,88
+30/05/2024,105,Radiology,137
+31/05/2024,105,Radiology,69
+01/06/2024,105,Radiology,181
+02/06/2024,105,Radiology,7
+03/06/2024,105,Radiology,177
+04/06/2024,105,Radiology,146
+05/06/2024,105,Radiology,124
+06/06/2024,105,Radiology,162
+07/06/2024,105,Radiology,72
+08/06/2024,105,Radiology,150
+09/06/2024,105,Radiology,194
+10/06/2024,105,Radiology,41
+11/06/2024,105,Radiology,157
+12/06/2024,105,Radiology,180
+13/06/2024,105,Radiology,197
+14/06/2024,105,Radiology,185
+15/06/2024,105,Radiology,77
+16/06/2024,105,Radiology,147
+17/06/2024,105,Radiology,53
+18/06/2024,105,Radiology,125
+19/06/2024,105,Radiology,92
+20/06/2024,105,Radiology,144
+21/06/2024,105,Radiology,191
+22/06/2024,105,Radiology,41
+23/06/2024,105,Radiology,65
+24/06/2024,105,Radiology,175
+25/06/2024,105,Radiology,128
+26/06/2024,105,Radiology,43
+27/06/2024,105,Radiology,188
+28/06/2024,105,Radiology,67
+29/06/2024,105,Radiology,50
+30/06/2024,105,Radiology,92
+01/07/2024,105,Radiology,15
+02/07/2024,105,Radiology,66
+03/07/2024,105,Radiology,81
+04/07/2024,105,Radiology,157
+05/07/2024,105,Radiology,56
+06/07/2024,105,Radiology,8
+07/07/2024,105,Radiology,63
+08/07/2024,105,Radiology,76
+09/07/2024,105,Radiology,152
+10/07/2024,105,Radiology,97
+11/07/2024,105,Radiology,67
+12/07/2024,105,Radiology,58
+13/07/2024,105,Radiology,121
+14/07/2024,105,Radiology,114
+15/07/2024,105,Radiology,78
+16/07/2024,105,Radiology,111
+17/07/2024,105,Radiology,61
+18/07/2024,105,Radiology,173
+19/07/2024,105,Radiology,7
+20/07/2024,105,Radiology,124
+21/07/2024,105,Radiology,10
+22/07/2024,105,Radiology,9
+23/07/2024,105,Radiology,9
+24/07/2024,105,Radiology,58
+25/07/2024,105,Radiology,51
+26/07/2024,105,Radiology,181
+27/07/2024,105,Radiology,13
+28/07/2024,105,Radiology,103
+29/07/2024,105,Radiology,24
+30/07/2024,105,Radiology,126
+31/07/2024,105,Radiology,65
+01/08/2024,105,Radiology,127
+02/08/2024,105,Radiology,167
+03/08/2024,105,Radiology,182
+04/08/2024,105,Radiology,86
+05/08/2024,105,Radiology,66
+06/08/2024,105,Radiology,149
+07/08/2024,105,Radiology,7
+08/08/2024,105,Radiology,164
+09/08/2024,105,Radiology,17
+10/08/2024,105,Radiology,124
+11/08/2024,105,Radiology,129
+12/08/2024,105,Radiology,93
+13/08/2024,105,Radiology,77
+14/08/2024,105,Radiology,72
+15/08/2024,105,Radiology,146
+16/08/2024,105,Radiology,105
+17/08/2024,105,Radiology,102
+18/08/2024,105,Radiology,15
+19/08/2024,105,Radiology,109
+20/08/2024,105,Radiology,188
+21/08/2024,105,Radiology,71
+22/08/2024,105,Radiology,127
+23/08/2024,105,Radiology,33
+24/08/2024,105,Radiology,141
+25/08/2024,105,Radiology,199
+26/08/2024,105,Radiology,157
+27/08/2024,105,Radiology,80
+28/08/2024,105,Radiology,174
+29/08/2024,105,Radiology,13
+30/08/2024,105,Radiology,44
+31/08/2024,105,Radiology,29
+01/09/2024,105,Radiology,9
+02/09/2024,105,Radiology,143
+03/09/2024,105,Radiology,191
+04/09/2024,105,Radiology,128
+05/09/2024,105,Radiology,42
+06/09/2024,105,Radiology,76
+07/09/2024,105,Radiology,137
+08/09/2024,105,Radiology,180
+09/09/2024,105,Radiology,94
+10/09/2024,105,Radiology,150
+11/09/2024,105,Radiology,41
+12/09/2024,105,Radiology,64
+13/09/2024,105,Radiology,180
+14/09/2024,105,Radiology,32
+15/09/2024,105,Radiology,85
+16/09/2024,105,Radiology,118
+17/09/2024,105,Radiology,44
+18/09/2024,105,Radiology,49
+19/09/2024,105,Radiology,66
+20/09/2024,105,Radiology,97
+21/09/2024,105,Radiology,119
+22/09/2024,105,Radiology,190
+23/09/2024,105,Radiology,71
+24/09/2024,105,Radiology,60
+25/09/2024,105,Radiology,44
+26/09/2024,105,Radiology,102
+27/09/2024,105,Radiology,44
+28/09/2024,105,Radiology,95
+29/09/2024,105,Radiology,37
+30/09/2024,105,Radiology,10
+01/10/2024,105,Radiology,151
+02/10/2024,105,Radiology,84
+03/10/2024,105,Radiology,172
+04/10/2024,105,Radiology,96
+05/10/2024,105,Radiology,101
+06/10/2024,105,Radiology,63
+07/10/2024,105,Radiology,63
+08/10/2024,105,Radiology,52
+09/10/2024,105,Radiology,173
+10/10/2024,105,Radiology,17
+11/10/2024,105,Radiology,111
+12/10/2024,105,Radiology,49
+13/10/2024,105,Radiology,93
+14/10/2024,105,Radiology,185
+15/10/2024,105,Radiology,174
+16/10/2024,105,Radiology,104
+17/10/2024,105,Radiology,195
+18/10/2024,105,Radiology,159
+19/10/2024,105,Radiology,170
+20/10/2024,105,Radiology,192
+21/10/2024,105,Radiology,11
+22/10/2024,105,Radiology,137
+23/10/2024,105,Radiology,49
+24/10/2024,105,Radiology,62
+25/10/2024,105,Radiology,35
+26/10/2024,105,Radiology,27
+27/10/2024,105,Radiology,174
+28/10/2024,105,Radiology,142
+29/10/2024,105,Radiology,164
+30/10/2024,105,Radiology,111
+31/10/2024,105,Radiology,185
+01/11/2024,105,Radiology,162
+02/11/2024,105,Radiology,43
+03/11/2024,105,Radiology,163
+04/11/2024,105,Radiology,86
+05/11/2024,105,Radiology,104
+06/11/2024,105,Radiology,6
+07/11/2024,105,Radiology,81
+08/11/2024,105,Radiology,16
+09/11/2024,105,Radiology,43
+10/11/2024,105,Radiology,198
+11/11/2024,105,Radiology,17
+12/11/2024,105,Radiology,50
+13/11/2024,105,Radiology,159
+14/11/2024,105,Radiology,117
+15/11/2024,105,Radiology,21
+16/11/2024,105,Radiology,108
+17/11/2024,105,Radiology,102
+18/11/2024,105,Radiology,192
+19/11/2024,105,Radiology,196
+20/11/2024,105,Radiology,92
+21/11/2024,105,Radiology,113
+22/11/2024,105,Radiology,167
+23/11/2024,105,Radiology,74
+24/11/2024,105,Radiology,162
+25/11/2024,105,Radiology,78
+26/11/2024,105,Radiology,67
+27/11/2024,105,Radiology,160
+28/11/2024,105,Radiology,64
+29/11/2024,105,Radiology,83
+30/11/2024,105,Radiology,41
+01/12/2024,105,Radiology,26
+02/12/2024,105,Radiology,152
+03/12/2024,105,Radiology,100
+04/12/2024,105,Radiology,72
+05/12/2024,105,Radiology,196
+06/12/2024,105,Radiology,21
+07/12/2024,105,Radiology,16
+08/12/2024,105,Radiology,154
+09/12/2024,105,Radiology,149
+10/12/2024,105,Radiology,142
+11/12/2024,105,Radiology,122
+12/12/2024,105,Radiology,197
+13/12/2024,105,Radiology,26
+14/12/2024,105,Radiology,124
+15/12/2024,105,Radiology,54
+16/12/2024,105,Radiology,18
+17/12/2024,105,Radiology,196
+18/12/2024,105,Radiology,179
+19/12/2024,105,Radiology,33
+20/12/2024,105,Radiology,168
+21/12/2024,105,Radiology,184
+22/12/2024,105,Radiology,129
+23/12/2024,105,Radiology,11
+24/12/2024,105,Radiology,33
+25/12/2024,105,Radiology,143
+26/12/2024,105,Radiology,37
+27/12/2024,105,Radiology,138
+28/12/2024,105,Radiology,115
+29/12/2024,105,Radiology,83
+30/12/2024,105,Radiology,164
+31/12/2024,105,Radiology,183
+01/01/2024,106,Emergency,62
+02/01/2024,106,Emergency,30
+03/01/2024,106,Emergency,178
+04/01/2024,106,Emergency,33
+05/01/2024,106,Emergency,8
+06/01/2024,106,Emergency,103
+07/01/2024,106,Emergency,145
+08/01/2024,106,Emergency,43
+09/01/2024,106,Emergency,19
+10/01/2024,106,Emergency,123
+11/01/2024,106,Emergency,33
+12/01/2024,106,Emergency,161
+13/01/2024,106,Emergency,79
+14/01/2024,106,Emergency,120
+15/01/2024,106,Emergency,36
+16/01/2024,106,Emergency,134
+17/01/2024,106,Emergency,179
+18/01/2024,106,Emergency,88
+19/01/2024,106,Emergency,26
+20/01/2024,106,Emergency,31
+21/01/2024,106,Emergency,199
+22/01/2024,106,Emergency,85
+23/01/2024,106,Emergency,130
+24/01/2024,106,Emergency,188
+25/01/2024,106,Emergency,96
+26/01/2024,106,Emergency,25
+27/01/2024,106,Emergency,51
+28/01/2024,106,Emergency,105
+29/01/2024,106,Emergency,191
+30/01/2024,106,Emergency,88
+31/01/2024,106,Emergency,10
+01/02/2024,106,Emergency,151
+02/02/2024,106,Emergency,189
+03/02/2024,106,Emergency,135
+04/02/2024,106,Emergency,5
+05/02/2024,106,Emergency,62
+06/02/2024,106,Emergency,128
+07/02/2024,106,Emergency,170
+08/02/2024,106,Emergency,19
+09/02/2024,106,Emergency,166
+10/02/2024,106,Emergency,193
+11/02/2024,106,Emergency,167
+12/02/2024,106,Emergency,68
+13/02/2024,106,Emergency,29
+14/02/2024,106,Emergency,28
+15/02/2024,106,Emergency,16
+16/02/2024,106,Emergency,22
+17/02/2024,106,Emergency,19
+18/02/2024,106,Emergency,31
+19/02/2024,106,Emergency,76
+20/02/2024,106,Emergency,64
+21/02/2024,106,Emergency,178
+22/02/2024,106,Emergency,149
+23/02/2024,106,Emergency,97
+24/02/2024,106,Emergency,57
+25/02/2024,106,Emergency,12
+26/02/2024,106,Emergency,83
+27/02/2024,106,Emergency,31
+28/02/2024,106,Emergency,178
+29/02/2024,106,Emergency,54
+01/03/2024,106,Emergency,135
+02/03/2024,106,Emergency,97
+03/03/2024,106,Emergency,196
+04/03/2024,106,Emergency,176
+05/03/2024,106,Emergency,185
+06/03/2024,106,Emergency,28
+07/03/2024,106,Emergency,64
+08/03/2024,106,Emergency,126
+09/03/2024,106,Emergency,135
+10/03/2024,106,Emergency,152
+11/03/2024,106,Emergency,50
+12/03/2024,106,Emergency,19
+13/03/2024,106,Emergency,157
+14/03/2024,106,Emergency,21
+15/03/2024,106,Emergency,130
+16/03/2024,106,Emergency,88
+17/03/2024,106,Emergency,13
+18/03/2024,106,Emergency,170
+19/03/2024,106,Emergency,180
+20/03/2024,106,Emergency,192
+21/03/2024,106,Emergency,67
+22/03/2024,106,Emergency,121
+23/03/2024,106,Emergency,134
+24/03/2024,106,Emergency,92
+25/03/2024,106,Emergency,76
+26/03/2024,106,Emergency,143
+27/03/2024,106,Emergency,68
+28/03/2024,106,Emergency,76
+29/03/2024,106,Emergency,25
+30/03/2024,106,Emergency,22
+31/03/2024,106,Emergency,68
+01/04/2024,106,Emergency,86
+02/04/2024,106,Emergency,114
+03/04/2024,106,Emergency,99
+04/04/2024,106,Emergency,170
+05/04/2024,106,Emergency,36
+06/04/2024,106,Emergency,15
+07/04/2024,106,Emergency,49
+08/04/2024,106,Emergency,37
+09/04/2024,106,Emergency,106
+10/04/2024,106,Emergency,173
+11/04/2024,106,Emergency,140
+12/04/2024,106,Emergency,15
+13/04/2024,106,Emergency,183
+14/04/2024,106,Emergency,92
+15/04/2024,106,Emergency,45
+16/04/2024,106,Emergency,149
+17/04/2024,106,Emergency,80
+18/04/2024,106,Emergency,125
+19/04/2024,106,Emergency,50
+20/04/2024,106,Emergency,164
+21/04/2024,106,Emergency,84
+22/04/2024,106,Emergency,58
+23/04/2024,106,Emergency,90
+24/04/2024,106,Emergency,96
+25/04/2024,106,Emergency,152
+26/04/2024,106,Emergency,165
+27/04/2024,106,Emergency,172
+28/04/2024,106,Emergency,164
+29/04/2024,106,Emergency,101
+30/04/2024,106,Emergency,6
+01/05/2024,106,Emergency,37
+02/05/2024,106,Emergency,162
+03/05/2024,106,Emergency,165
+04/05/2024,106,Emergency,81
+05/05/2024,106,Emergency,120
+06/05/2024,106,Emergency,158
+07/05/2024,106,Emergency,154
+08/05/2024,106,Emergency,107
+09/05/2024,106,Emergency,198
+10/05/2024,106,Emergency,170
+11/05/2024,106,Emergency,107
+12/05/2024,106,Emergency,94
+13/05/2024,106,Emergency,178
+14/05/2024,106,Emergency,126
+15/05/2024,106,Emergency,147
+16/05/2024,106,Emergency,110
+17/05/2024,106,Emergency,123
+18/05/2024,106,Emergency,176
+19/05/2024,106,Emergency,53
+20/05/2024,106,Emergency,108
+21/05/2024,106,Emergency,65
+22/05/2024,106,Emergency,199
+23/05/2024,106,Emergency,127
+24/05/2024,106,Emergency,138
+25/05/2024,106,Emergency,13
+26/05/2024,106,Emergency,10
+27/05/2024,106,Emergency,77
+28/05/2024,106,Emergency,107
+29/05/2024,106,Emergency,164
+30/05/2024,106,Emergency,45
+31/05/2024,106,Emergency,118
+01/06/2024,106,Emergency,12
+02/06/2024,106,Emergency,76
+03/06/2024,106,Emergency,182
+04/06/2024,106,Emergency,96
+05/06/2024,106,Emergency,66
+06/06/2024,106,Emergency,88
+07/06/2024,106,Emergency,66
+08/06/2024,106,Emergency,115
+09/06/2024,106,Emergency,131
+10/06/2024,106,Emergency,11
+11/06/2024,106,Emergency,88
+12/06/2024,106,Emergency,136
+13/06/2024,106,Emergency,138
+14/06/2024,106,Emergency,62
+15/06/2024,106,Emergency,26
+16/06/2024,106,Emergency,158
+17/06/2024,106,Emergency,131
+18/06/2024,106,Emergency,7
+19/06/2024,106,Emergency,131
+20/06/2024,106,Emergency,45
+21/06/2024,106,Emergency,192
+22/06/2024,106,Emergency,110
+23/06/2024,106,Emergency,18
+24/06/2024,106,Emergency,16
+25/06/2024,106,Emergency,91
+26/06/2024,106,Emergency,16
+27/06/2024,106,Emergency,145
+28/06/2024,106,Emergency,29
+29/06/2024,106,Emergency,49
+30/06/2024,106,Emergency,126
+01/07/2024,106,Emergency,151
+02/07/2024,106,Emergency,59
+03/07/2024,106,Emergency,104
+04/07/2024,106,Emergency,177
+05/07/2024,106,Emergency,140
+06/07/2024,106,Emergency,123
+07/07/2024,106,Emergency,57
+08/07/2024,106,Emergency,187
+09/07/2024,106,Emergency,36
+10/07/2024,106,Emergency,55
+11/07/2024,106,Emergency,48
+12/07/2024,106,Emergency,86
+13/07/2024,106,Emergency,150
+14/07/2024,106,Emergency,154
+15/07/2024,106,Emergency,41
+16/07/2024,106,Emergency,100
+17/07/2024,106,Emergency,60
+18/07/2024,106,Emergency,109
+19/07/2024,106,Emergency,63
+20/07/2024,106,Emergency,135
+21/07/2024,106,Emergency,160
+22/07/2024,106,Emergency,39
+23/07/2024,106,Emergency,193
+24/07/2024,106,Emergency,97
+25/07/2024,106,Emergency,186
+26/07/2024,106,Emergency,195
+27/07/2024,106,Emergency,101
+28/07/2024,106,Emergency,139
+29/07/2024,106,Emergency,80
+30/07/2024,106,Emergency,53
+31/07/2024,106,Emergency,98
+01/08/2024,106,Emergency,163
+02/08/2024,106,Emergency,190
+03/08/2024,106,Emergency,193
+04/08/2024,106,Emergency,28
+05/08/2024,106,Emergency,152
+06/08/2024,106,Emergency,41
+07/08/2024,106,Emergency,8
+08/08/2024,106,Emergency,112
+09/08/2024,106,Emergency,130
+10/08/2024,106,Emergency,24
+11/08/2024,106,Emergency,192
+12/08/2024,106,Emergency,156
+13/08/2024,106,Emergency,54
+14/08/2024,106,Emergency,181
+15/08/2024,106,Emergency,183
+16/08/2024,106,Emergency,100
+17/08/2024,106,Emergency,109
+18/08/2024,106,Emergency,168
+19/08/2024,106,Emergency,121
+20/08/2024,106,Emergency,102
+21/08/2024,106,Emergency,70
+22/08/2024,106,Emergency,83
+23/08/2024,106,Emergency,166
+24/08/2024,106,Emergency,168
+25/08/2024,106,Emergency,10
+26/08/2024,106,Emergency,43
+27/08/2024,106,Emergency,174
+28/08/2024,106,Emergency,119
+29/08/2024,106,Emergency,190
+30/08/2024,106,Emergency,129
+31/08/2024,106,Emergency,16
+01/09/2024,106,Emergency,135
+02/09/2024,106,Emergency,22
+03/09/2024,106,Emergency,44
+04/09/2024,106,Emergency,25
+05/09/2024,106,Emergency,147
+06/09/2024,106,Emergency,103
+07/09/2024,106,Emergency,30
+08/09/2024,106,Emergency,12
+09/09/2024,106,Emergency,104
+10/09/2024,106,Emergency,91
+11/09/2024,106,Emergency,46
+12/09/2024,106,Emergency,176
+13/09/2024,106,Emergency,18
+14/09/2024,106,Emergency,82
+15/09/2024,106,Emergency,6
+16/09/2024,106,Emergency,123
+17/09/2024,106,Emergency,41
+18/09/2024,106,Emergency,73
+19/09/2024,106,Emergency,170
+20/09/2024,106,Emergency,45
+21/09/2024,106,Emergency,66
+22/09/2024,106,Emergency,64
+23/09/2024,106,Emergency,129
+24/09/2024,106,Emergency,115
+25/09/2024,106,Emergency,18
+26/09/2024,106,Emergency,88
+27/09/2024,106,Emergency,134
+28/09/2024,106,Emergency,74
+29/09/2024,106,Emergency,149
+30/09/2024,106,Emergency,127
+01/10/2024,106,Emergency,93
+02/10/2024,106,Emergency,32
+03/10/2024,106,Emergency,70
+04/10/2024,106,Emergency,167
+05/10/2024,106,Emergency,9
+06/10/2024,106,Emergency,197
+07/10/2024,106,Emergency,172
+08/10/2024,106,Emergency,188
+09/10/2024,106,Emergency,168
+10/10/2024,106,Emergency,49
+11/10/2024,106,Emergency,155
+12/10/2024,106,Emergency,51
+13/10/2024,106,Emergency,35
+14/10/2024,106,Emergency,143
+15/10/2024,106,Emergency,14
+16/10/2024,106,Emergency,199
+17/10/2024,106,Emergency,122
+18/10/2024,106,Emergency,18
+19/10/2024,106,Emergency,84
+20/10/2024,106,Emergency,97
+21/10/2024,106,Emergency,14
+22/10/2024,106,Emergency,80
+23/10/2024,106,Emergency,98
+24/10/2024,106,Emergency,109
+25/10/2024,106,Emergency,5
+26/10/2024,106,Emergency,137
+27/10/2024,106,Emergency,24
+28/10/2024,106,Emergency,12
+29/10/2024,106,Emergency,175
+30/10/2024,106,Emergency,5
+31/10/2024,106,Emergency,61
+01/11/2024,106,Emergency,68
+02/11/2024,106,Emergency,122
+03/11/2024,106,Emergency,32
+04/11/2024,106,Emergency,125
+05/11/2024,106,Emergency,111
+06/11/2024,106,Emergency,169
+07/11/2024,106,Emergency,179
+08/11/2024,106,Emergency,169
+09/11/2024,106,Emergency,53
+10/11/2024,106,Emergency,124
+11/11/2024,106,Emergency,48
+12/11/2024,106,Emergency,60
+13/11/2024,106,Emergency,160
+14/11/2024,106,Emergency,115
+15/11/2024,106,Emergency,138
+16/11/2024,106,Emergency,112
+17/11/2024,106,Emergency,193
+18/11/2024,106,Emergency,152
+19/11/2024,106,Emergency,118
+20/11/2024,106,Emergency,82
+21/11/2024,106,Emergency,134
+22/11/2024,106,Emergency,41
+23/11/2024,106,Emergency,24
+24/11/2024,106,Emergency,30
+25/11/2024,106,Emergency,33
+26/11/2024,106,Emergency,5
+27/11/2024,106,Emergency,123
+28/11/2024,106,Emergency,39
+29/11/2024,106,Emergency,63
+30/11/2024,106,Emergency,73
+01/12/2024,106,Emergency,165
+02/12/2024,106,Emergency,183
+03/12/2024,106,Emergency,16
+04/12/2024,106,Emergency,24
+05/12/2024,106,Emergency,185
+06/12/2024,106,Emergency,47
+07/12/2024,106,Emergency,130
+08/12/2024,106,Emergency,54
+09/12/2024,106,Emergency,33
+10/12/2024,106,Emergency,189
+11/12/2024,106,Emergency,43
+12/12/2024,106,Emergency,188
+13/12/2024,106,Emergency,175
+14/12/2024,106,Emergency,182
+15/12/2024,106,Emergency,155
+16/12/2024,106,Emergency,176
+17/12/2024,106,Emergency,42
+18/12/2024,106,Emergency,88
+19/12/2024,106,Emergency,155
+20/12/2024,106,Emergency,132
+21/12/2024,106,Emergency,130
+22/12/2024,106,Emergency,49
+23/12/2024,106,Emergency,56
+24/12/2024,106,Emergency,84
+25/12/2024,106,Emergency,182
+26/12/2024,106,Emergency,128
+27/12/2024,106,Emergency,123
+28/12/2024,106,Emergency,12
+29/12/2024,106,Emergency,89
+30/12/2024,106,Emergency,133
+31/12/2024,106,Emergency,12
+01/01/2024,107,Surgery,161
+02/01/2024,107,Surgery,100
+03/01/2024,107,Surgery,106
+04/01/2024,107,Surgery,9
+05/01/2024,107,Surgery,90
+06/01/2024,107,Surgery,179
+07/01/2024,107,Surgery,38
+08/01/2024,107,Surgery,197
+09/01/2024,107,Surgery,59
+10/01/2024,107,Surgery,123
+11/01/2024,107,Surgery,175
+12/01/2024,107,Surgery,162
+13/01/2024,107,Surgery,118
+14/01/2024,107,Surgery,149
+15/01/2024,107,Surgery,30
+16/01/2024,107,Surgery,140
+17/01/2024,107,Surgery,51
+18/01/2024,107,Surgery,117
+19/01/2024,107,Surgery,80
+20/01/2024,107,Surgery,76
+21/01/2024,107,Surgery,93
+22/01/2024,107,Surgery,50
+23/01/2024,107,Surgery,37
+24/01/2024,107,Surgery,5
+25/01/2024,107,Surgery,151
+26/01/2024,107,Surgery,35
+27/01/2024,107,Surgery,146
+28/01/2024,107,Surgery,57
+29/01/2024,107,Surgery,52
+30/01/2024,107,Surgery,73
+31/01/2024,107,Surgery,109
+01/02/2024,107,Surgery,94
+02/02/2024,107,Surgery,194
+03/02/2024,107,Surgery,198
+04/02/2024,107,Surgery,196
+05/02/2024,107,Surgery,67
+06/02/2024,107,Surgery,77
+07/02/2024,107,Surgery,165
+08/02/2024,107,Surgery,173
+09/02/2024,107,Surgery,93
+10/02/2024,107,Surgery,180
+11/02/2024,107,Surgery,17
+12/02/2024,107,Surgery,77
+13/02/2024,107,Surgery,81
+14/02/2024,107,Surgery,163
+15/02/2024,107,Surgery,72
+16/02/2024,107,Surgery,102
+17/02/2024,107,Surgery,129
+18/02/2024,107,Surgery,106
+19/02/2024,107,Surgery,136
+20/02/2024,107,Surgery,106
+21/02/2024,107,Surgery,23
+22/02/2024,107,Surgery,86
+23/02/2024,107,Surgery,145
+24/02/2024,107,Surgery,27
+25/02/2024,107,Surgery,87
+26/02/2024,107,Surgery,113
+27/02/2024,107,Surgery,79
+28/02/2024,107,Surgery,133
+29/02/2024,107,Surgery,92
+01/03/2024,107,Surgery,58
+02/03/2024,107,Surgery,93
+03/03/2024,107,Surgery,147
+04/03/2024,107,Surgery,69
+05/03/2024,107,Surgery,80
+06/03/2024,107,Surgery,147
+07/03/2024,107,Surgery,153
+08/03/2024,107,Surgery,151
+09/03/2024,107,Surgery,64
+10/03/2024,107,Surgery,97
+11/03/2024,107,Surgery,165
+12/03/2024,107,Surgery,53
+13/03/2024,107,Surgery,39
+14/03/2024,107,Surgery,176
+15/03/2024,107,Surgery,106
+16/03/2024,107,Surgery,15
+17/03/2024,107,Surgery,103
+18/03/2024,107,Surgery,114
+19/03/2024,107,Surgery,78
+20/03/2024,107,Surgery,198
+21/03/2024,107,Surgery,178
+22/03/2024,107,Surgery,13
+23/03/2024,107,Surgery,7
+24/03/2024,107,Surgery,89
+25/03/2024,107,Surgery,30
+26/03/2024,107,Surgery,76
+27/03/2024,107,Surgery,52
+28/03/2024,107,Surgery,198
+29/03/2024,107,Surgery,160
+30/03/2024,107,Surgery,121
+31/03/2024,107,Surgery,158
+01/04/2024,107,Surgery,157
+02/04/2024,107,Surgery,16
+03/04/2024,107,Surgery,137
+04/04/2024,107,Surgery,52
+05/04/2024,107,Surgery,41
+06/04/2024,107,Surgery,48
+07/04/2024,107,Surgery,19
+08/04/2024,107,Surgery,47
+09/04/2024,107,Surgery,180
+10/04/2024,107,Surgery,91
+11/04/2024,107,Surgery,74
+12/04/2024,107,Surgery,50
+13/04/2024,107,Surgery,112
+14/04/2024,107,Surgery,127
+15/04/2024,107,Surgery,175
+16/04/2024,107,Surgery,25
+17/04/2024,107,Surgery,155
+18/04/2024,107,Surgery,111
+19/04/2024,107,Surgery,84
+20/04/2024,107,Surgery,51
+21/04/2024,107,Surgery,121
+22/04/2024,107,Surgery,128
+23/04/2024,107,Surgery,147
+24/04/2024,107,Surgery,29
+25/04/2024,107,Surgery,40
+26/04/2024,107,Surgery,55
+27/04/2024,107,Surgery,19
+28/04/2024,107,Surgery,72
+29/04/2024,107,Surgery,25
+30/04/2024,107,Surgery,145
+01/05/2024,107,Surgery,23
+02/05/2024,107,Surgery,38
+03/05/2024,107,Surgery,82
+04/05/2024,107,Surgery,129
+05/05/2024,107,Surgery,121
+06/05/2024,107,Surgery,56
+07/05/2024,107,Surgery,31
+08/05/2024,107,Surgery,161
+09/05/2024,107,Surgery,160
+10/05/2024,107,Surgery,39
+11/05/2024,107,Surgery,140
+12/05/2024,107,Surgery,148
+13/05/2024,107,Surgery,110
+14/05/2024,107,Surgery,168
+15/05/2024,107,Surgery,162
+16/05/2024,107,Surgery,150
+17/05/2024,107,Surgery,6
+18/05/2024,107,Surgery,181
+19/05/2024,107,Surgery,81
+20/05/2024,107,Surgery,136
+21/05/2024,107,Surgery,94
+22/05/2024,107,Surgery,93
+23/05/2024,107,Surgery,98
+24/05/2024,107,Surgery,11
+25/05/2024,107,Surgery,99
+26/05/2024,107,Surgery,112
+27/05/2024,107,Surgery,78
+28/05/2024,107,Surgery,43
+29/05/2024,107,Surgery,145
+30/05/2024,107,Surgery,163
+31/05/2024,107,Surgery,75
+01/06/2024,107,Surgery,195
+02/06/2024,107,Surgery,60
+03/06/2024,107,Surgery,174
+04/06/2024,107,Surgery,193
+05/06/2024,107,Surgery,46
+06/06/2024,107,Surgery,188
+07/06/2024,107,Surgery,40
+08/06/2024,107,Surgery,88
+09/06/2024,107,Surgery,122
+10/06/2024,107,Surgery,11
+11/06/2024,107,Surgery,58
+12/06/2024,107,Surgery,133
+13/06/2024,107,Surgery,176
+14/06/2024,107,Surgery,124
+15/06/2024,107,Surgery,177
+16/06/2024,107,Surgery,110
+17/06/2024,107,Surgery,51
+18/06/2024,107,Surgery,127
+19/06/2024,107,Surgery,145
+20/06/2024,107,Surgery,123
+21/06/2024,107,Surgery,154
+22/06/2024,107,Surgery,122
+23/06/2024,107,Surgery,25
+24/06/2024,107,Surgery,141
+25/06/2024,107,Surgery,30
+26/06/2024,107,Surgery,13
+27/06/2024,107,Surgery,19
+28/06/2024,107,Surgery,14
+29/06/2024,107,Surgery,126
+30/06/2024,107,Surgery,125
+01/07/2024,107,Surgery,129
+02/07/2024,107,Surgery,174
+03/07/2024,107,Surgery,76
+04/07/2024,107,Surgery,156
+05/07/2024,107,Surgery,53
+06/07/2024,107,Surgery,158
+07/07/2024,107,Surgery,95
+08/07/2024,107,Surgery,41
+09/07/2024,107,Surgery,72
+10/07/2024,107,Surgery,54
+11/07/2024,107,Surgery,156
+12/07/2024,107,Surgery,23
+13/07/2024,107,Surgery,104
+14/07/2024,107,Surgery,64
+15/07/2024,107,Surgery,171
+16/07/2024,107,Surgery,93
+17/07/2024,107,Surgery,150
+18/07/2024,107,Surgery,151
+19/07/2024,107,Surgery,168
+20/07/2024,107,Surgery,187
+21/07/2024,107,Surgery,73
+22/07/2024,107,Surgery,179
+23/07/2024,107,Surgery,53
+24/07/2024,107,Surgery,112
+25/07/2024,107,Surgery,165
+26/07/2024,107,Surgery,123
+27/07/2024,107,Surgery,153
+28/07/2024,107,Surgery,154
+29/07/2024,107,Surgery,180
+30/07/2024,107,Surgery,41
+31/07/2024,107,Surgery,147
+01/08/2024,107,Surgery,167
+02/08/2024,107,Surgery,164
+03/08/2024,107,Surgery,15
+04/08/2024,107,Surgery,142
+05/08/2024,107,Surgery,82
+06/08/2024,107,Surgery,81
+07/08/2024,107,Surgery,189
+08/08/2024,107,Surgery,157
+09/08/2024,107,Surgery,6
+10/08/2024,107,Surgery,68
+11/08/2024,107,Surgery,39
+12/08/2024,107,Surgery,11
+13/08/2024,107,Surgery,89
+14/08/2024,107,Surgery,150
+15/08/2024,107,Surgery,71
+16/08/2024,107,Surgery,46
+17/08/2024,107,Surgery,122
+18/08/2024,107,Surgery,129
+19/08/2024,107,Surgery,171
+20/08/2024,107,Surgery,173
+21/08/2024,107,Surgery,28
+22/08/2024,107,Surgery,192
+23/08/2024,107,Surgery,50
+24/08/2024,107,Surgery,23
+25/08/2024,107,Surgery,72
+26/08/2024,107,Surgery,106
+27/08/2024,107,Surgery,46
+28/08/2024,107,Surgery,36
+29/08/2024,107,Surgery,171
+30/08/2024,107,Surgery,113
+31/08/2024,107,Surgery,40
+01/09/2024,107,Surgery,101
+02/09/2024,107,Surgery,168
+03/09/2024,107,Surgery,135
+04/09/2024,107,Surgery,77
+05/09/2024,107,Surgery,140
+06/09/2024,107,Surgery,101
+07/09/2024,107,Surgery,127
+08/09/2024,107,Surgery,74
+09/09/2024,107,Surgery,173
+10/09/2024,107,Surgery,17
+11/09/2024,107,Surgery,53
+12/09/2024,107,Surgery,64
+13/09/2024,107,Surgery,134
+14/09/2024,107,Surgery,192
+15/09/2024,107,Surgery,9
+16/09/2024,107,Surgery,176
+17/09/2024,107,Surgery,31
+18/09/2024,107,Surgery,164
+19/09/2024,107,Surgery,153
+20/09/2024,107,Surgery,12
+21/09/2024,107,Surgery,54
+22/09/2024,107,Surgery,71
+23/09/2024,107,Surgery,48
+24/09/2024,107,Surgery,129
+25/09/2024,107,Surgery,62
+26/09/2024,107,Surgery,7
+27/09/2024,107,Surgery,90
+28/09/2024,107,Surgery,74
+29/09/2024,107,Surgery,134
+30/09/2024,107,Surgery,176
+01/10/2024,107,Surgery,6
+02/10/2024,107,Surgery,106
+03/10/2024,107,Surgery,39
+04/10/2024,107,Surgery,102
+05/10/2024,107,Surgery,34
+06/10/2024,107,Surgery,120
+07/10/2024,107,Surgery,12
+08/10/2024,107,Surgery,154
+09/10/2024,107,Surgery,48
+10/10/2024,107,Surgery,190
+11/10/2024,107,Surgery,40
+12/10/2024,107,Surgery,81
+13/10/2024,107,Surgery,35
+14/10/2024,107,Surgery,51
+15/10/2024,107,Surgery,59
+16/10/2024,107,Surgery,110
+17/10/2024,107,Surgery,194
+18/10/2024,107,Surgery,162
+19/10/2024,107,Surgery,125
+20/10/2024,107,Surgery,59
+21/10/2024,107,Surgery,148
+22/10/2024,107,Surgery,16
+23/10/2024,107,Surgery,149
+24/10/2024,107,Surgery,148
+25/10/2024,107,Surgery,144
+26/10/2024,107,Surgery,140
+27/10/2024,107,Surgery,7
+28/10/2024,107,Surgery,148
+29/10/2024,107,Surgery,34
+30/10/2024,107,Surgery,27
+31/10/2024,107,Surgery,96
+01/11/2024,107,Surgery,119
+02/11/2024,107,Surgery,108
+03/11/2024,107,Surgery,122
+04/11/2024,107,Surgery,9
+05/11/2024,107,Surgery,108
+06/11/2024,107,Surgery,112
+07/11/2024,107,Surgery,69
+08/11/2024,107,Surgery,125
+09/11/2024,107,Surgery,34
+10/11/2024,107,Surgery,153
+11/11/2024,107,Surgery,88
+12/11/2024,107,Surgery,154
+13/11/2024,107,Surgery,36
+14/11/2024,107,Surgery,165
+15/11/2024,107,Surgery,20
+16/11/2024,107,Surgery,42
+17/11/2024,107,Surgery,146
+18/11/2024,107,Surgery,40
+19/11/2024,107,Surgery,155
+20/11/2024,107,Surgery,118
+21/11/2024,107,Surgery,70
+22/11/2024,107,Surgery,109
+23/11/2024,107,Surgery,89
+24/11/2024,107,Surgery,6
+25/11/2024,107,Surgery,197
+26/11/2024,107,Surgery,79
+27/11/2024,107,Surgery,71
+28/11/2024,107,Surgery,184
+29/11/2024,107,Surgery,194
+30/11/2024,107,Surgery,155
+01/12/2024,107,Surgery,158
+02/12/2024,107,Surgery,59
+03/12/2024,107,Surgery,10
+04/12/2024,107,Surgery,167
+05/12/2024,107,Surgery,154
+06/12/2024,107,Surgery,175
+07/12/2024,107,Surgery,147
+08/12/2024,107,Surgery,90
+09/12/2024,107,Surgery,64
+10/12/2024,107,Surgery,105
+11/12/2024,107,Surgery,16
+12/12/2024,107,Surgery,53
+13/12/2024,107,Surgery,46
+14/12/2024,107,Surgery,170
+15/12/2024,107,Surgery,86
+16/12/2024,107,Surgery,177
+17/12/2024,107,Surgery,39
+18/12/2024,107,Surgery,162
+19/12/2024,107,Surgery,162
+20/12/2024,107,Surgery,138
+21/12/2024,107,Surgery,71
+22/12/2024,107,Surgery,84
+23/12/2024,107,Surgery,11
+24/12/2024,107,Surgery,184
+25/12/2024,107,Surgery,18
+26/12/2024,107,Surgery,77
+27/12/2024,107,Surgery,147
+28/12/2024,107,Surgery,153
+29/12/2024,107,Surgery,167
+30/12/2024,107,Surgery,70
+31/12/2024,107,Surgery,95
+01/01/2024,108,Maternity,134
+02/01/2024,108,Maternity,167
+03/01/2024,108,Maternity,24
+04/01/2024,108,Maternity,14
+05/01/2024,108,Maternity,29
+06/01/2024,108,Maternity,198
+07/01/2024,108,Maternity,29
+08/01/2024,108,Maternity,58
+09/01/2024,108,Maternity,37
+10/01/2024,108,Maternity,168
+11/01/2024,108,Maternity,99
+12/01/2024,108,Maternity,18
+13/01/2024,108,Maternity,69
+14/01/2024,108,Maternity,114
+15/01/2024,108,Maternity,84
+16/01/2024,108,Maternity,58
+17/01/2024,108,Maternity,129
+18/01/2024,108,Maternity,184
+19/01/2024,108,Maternity,135
+20/01/2024,108,Maternity,173
+21/01/2024,108,Maternity,138
+22/01/2024,108,Maternity,29
+23/01/2024,108,Maternity,145
+24/01/2024,108,Maternity,121
+25/01/2024,108,Maternity,140
+26/01/2024,108,Maternity,153
+27/01/2024,108,Maternity,29
+28/01/2024,108,Maternity,83
+29/01/2024,108,Maternity,72
+30/01/2024,108,Maternity,177
+31/01/2024,108,Maternity,192
+01/02/2024,108,Maternity,16
+02/02/2024,108,Maternity,36
+03/02/2024,108,Maternity,132
+04/02/2024,108,Maternity,100
+05/02/2024,108,Maternity,96
+06/02/2024,108,Maternity,145
+07/02/2024,108,Maternity,35
+08/02/2024,108,Maternity,82
+09/02/2024,108,Maternity,24
+10/02/2024,108,Maternity,150
+11/02/2024,108,Maternity,64
+12/02/2024,108,Maternity,195
+13/02/2024,108,Maternity,138
+14/02/2024,108,Maternity,164
+15/02/2024,108,Maternity,97
+16/02/2024,108,Maternity,47
+17/02/2024,108,Maternity,134
+18/02/2024,108,Maternity,64
+19/02/2024,108,Maternity,155
+20/02/2024,108,Maternity,35
+21/02/2024,108,Maternity,9
+22/02/2024,108,Maternity,166
+23/02/2024,108,Maternity,14
+24/02/2024,108,Maternity,93
+25/02/2024,108,Maternity,134
+26/02/2024,108,Maternity,130
+27/02/2024,108,Maternity,15
+28/02/2024,108,Maternity,182
+29/02/2024,108,Maternity,163
+01/03/2024,108,Maternity,60
+02/03/2024,108,Maternity,87
+03/03/2024,108,Maternity,141
+04/03/2024,108,Maternity,103
+05/03/2024,108,Maternity,153
+06/03/2024,108,Maternity,77
+07/03/2024,108,Maternity,160
+08/03/2024,108,Maternity,194
+09/03/2024,108,Maternity,119
+10/03/2024,108,Maternity,11
+11/03/2024,108,Maternity,84
+12/03/2024,108,Maternity,148
+13/03/2024,108,Maternity,101
+14/03/2024,108,Maternity,8
+15/03/2024,108,Maternity,8
+16/03/2024,108,Maternity,107
+17/03/2024,108,Maternity,44
+18/03/2024,108,Maternity,21
+19/03/2024,108,Maternity,105
+20/03/2024,108,Maternity,107
+21/03/2024,108,Maternity,128
+22/03/2024,108,Maternity,56
+23/03/2024,108,Maternity,56
+24/03/2024,108,Maternity,168
+25/03/2024,108,Maternity,128
+26/03/2024,108,Maternity,170
+27/03/2024,108,Maternity,182
+28/03/2024,108,Maternity,67
+29/03/2024,108,Maternity,120
+30/03/2024,108,Maternity,195
+31/03/2024,108,Maternity,66
+01/04/2024,108,Maternity,11
+02/04/2024,108,Maternity,159
+03/04/2024,108,Maternity,96
+04/04/2024,108,Maternity,18
+05/04/2024,108,Maternity,90
+06/04/2024,108,Maternity,137
+07/04/2024,108,Maternity,187
+08/04/2024,108,Maternity,134
+09/04/2024,108,Maternity,66
+10/04/2024,108,Maternity,153
+11/04/2024,108,Maternity,83
+12/04/2024,108,Maternity,153
+13/04/2024,108,Maternity,142
+14/04/2024,108,Maternity,62
+15/04/2024,108,Maternity,124
+16/04/2024,108,Maternity,171
+17/04/2024,108,Maternity,137
+18/04/2024,108,Maternity,69
+19/04/2024,108,Maternity,17
+20/04/2024,108,Maternity,185
+21/04/2024,108,Maternity,86
+22/04/2024,108,Maternity,177
+23/04/2024,108,Maternity,164
+24/04/2024,108,Maternity,168
+25/04/2024,108,Maternity,192
+26/04/2024,108,Maternity,143
+27/04/2024,108,Maternity,195
+28/04/2024,108,Maternity,153
+29/04/2024,108,Maternity,56
+30/04/2024,108,Maternity,187
+01/05/2024,108,Maternity,121
+02/05/2024,108,Maternity,30
+03/05/2024,108,Maternity,38
+04/05/2024,108,Maternity,56
+05/05/2024,108,Maternity,116
+06/05/2024,108,Maternity,86
+07/05/2024,108,Maternity,184
+08/05/2024,108,Maternity,161
+09/05/2024,108,Maternity,170
+10/05/2024,108,Maternity,46
+11/05/2024,108,Maternity,25
+12/05/2024,108,Maternity,46
+13/05/2024,108,Maternity,145
+14/05/2024,108,Maternity,117
+15/05/2024,108,Maternity,109
+16/05/2024,108,Maternity,196
+17/05/2024,108,Maternity,21
+18/05/2024,108,Maternity,124
+19/05/2024,108,Maternity,141
+20/05/2024,108,Maternity,173
+21/05/2024,108,Maternity,133
+22/05/2024,108,Maternity,134
+23/05/2024,108,Maternity,64
+24/05/2024,108,Maternity,52
+25/05/2024,108,Maternity,33
+26/05/2024,108,Maternity,101
+27/05/2024,108,Maternity,14
+28/05/2024,108,Maternity,62
+29/05/2024,108,Maternity,192
+30/05/2024,108,Maternity,25
+31/05/2024,108,Maternity,32
+01/06/2024,108,Maternity,38
+02/06/2024,108,Maternity,12
+03/06/2024,108,Maternity,191
+04/06/2024,108,Maternity,181
+05/06/2024,108,Maternity,83
+06/06/2024,108,Maternity,149
+07/06/2024,108,Maternity,192
+08/06/2024,108,Maternity,91
+09/06/2024,108,Maternity,92
+10/06/2024,108,Maternity,177
+11/06/2024,108,Maternity,73
+12/06/2024,108,Maternity,164
+13/06/2024,108,Maternity,176
+14/06/2024,108,Maternity,197
+15/06/2024,108,Maternity,91
+16/06/2024,108,Maternity,105
+17/06/2024,108,Maternity,12
+18/06/2024,108,Maternity,81
+19/06/2024,108,Maternity,91
+20/06/2024,108,Maternity,47
+21/06/2024,108,Maternity,133
+22/06/2024,108,Maternity,113
+23/06/2024,108,Maternity,183
+24/06/2024,108,Maternity,156
+25/06/2024,108,Maternity,156
+26/06/2024,108,Maternity,21
+27/06/2024,108,Maternity,137
+28/06/2024,108,Maternity,152
+29/06/2024,108,Maternity,25
+30/06/2024,108,Maternity,62
+01/07/2024,108,Maternity,163
+02/07/2024,108,Maternity,114
+03/07/2024,108,Maternity,143
+04/07/2024,108,Maternity,184
+05/07/2024,108,Maternity,147
+06/07/2024,108,Maternity,139
+07/07/2024,108,Maternity,32
+08/07/2024,108,Maternity,55
+09/07/2024,108,Maternity,190
+10/07/2024,108,Maternity,9
+11/07/2024,108,Maternity,9
+12/07/2024,108,Maternity,98
+13/07/2024,108,Maternity,100
+14/07/2024,108,Maternity,12
+15/07/2024,108,Maternity,68
+16/07/2024,108,Maternity,142
+17/07/2024,108,Maternity,42
+18/07/2024,108,Maternity,115
+19/07/2024,108,Maternity,116
+20/07/2024,108,Maternity,85
+21/07/2024,108,Maternity,140
+22/07/2024,108,Maternity,108
+23/07/2024,108,Maternity,157
+24/07/2024,108,Maternity,77
+25/07/2024,108,Maternity,198
+26/07/2024,108,Maternity,182
+27/07/2024,108,Maternity,199
+28/07/2024,108,Maternity,53
+29/07/2024,108,Maternity,40
+30/07/2024,108,Maternity,130
+31/07/2024,108,Maternity,72
+01/08/2024,108,Maternity,82
+02/08/2024,108,Maternity,109
+03/08/2024,108,Maternity,173
+04/08/2024,108,Maternity,126
+05/08/2024,108,Maternity,123
+06/08/2024,108,Maternity,194
+07/08/2024,108,Maternity,118
+08/08/2024,108,Maternity,14
+09/08/2024,108,Maternity,153
+10/08/2024,108,Maternity,168
+11/08/2024,108,Maternity,144
+12/08/2024,108,Maternity,95
+13/08/2024,108,Maternity,6
+14/08/2024,108,Maternity,122
+15/08/2024,108,Maternity,17
+16/08/2024,108,Maternity,185
+17/08/2024,108,Maternity,164
+18/08/2024,108,Maternity,99
+19/08/2024,108,Maternity,148
+20/08/2024,108,Maternity,36
+21/08/2024,108,Maternity,36
+22/08/2024,108,Maternity,128
+23/08/2024,108,Maternity,15
+24/08/2024,108,Maternity,14
+25/08/2024,108,Maternity,19
+26/08/2024,108,Maternity,21
+27/08/2024,108,Maternity,172
+28/08/2024,108,Maternity,150
+29/08/2024,108,Maternity,187
+30/08/2024,108,Maternity,157
+31/08/2024,108,Maternity,63
+01/09/2024,108,Maternity,82
+02/09/2024,108,Maternity,128
+03/09/2024,108,Maternity,118
+04/09/2024,108,Maternity,26
+05/09/2024,108,Maternity,162
+06/09/2024,108,Maternity,176
+07/09/2024,108,Maternity,36
+08/09/2024,108,Maternity,183
+09/09/2024,108,Maternity,178
+10/09/2024,108,Maternity,117
+11/09/2024,108,Maternity,124
+12/09/2024,108,Maternity,153
+13/09/2024,108,Maternity,126
+14/09/2024,108,Maternity,36
+15/09/2024,108,Maternity,123
+16/09/2024,108,Maternity,43
+17/09/2024,108,Maternity,16
+18/09/2024,108,Maternity,179
+19/09/2024,108,Maternity,22
+20/09/2024,108,Maternity,153
+21/09/2024,108,Maternity,145
+22/09/2024,108,Maternity,153
+23/09/2024,108,Maternity,130
+24/09/2024,108,Maternity,140
+25/09/2024,108,Maternity,50
+26/09/2024,108,Maternity,108
+27/09/2024,108,Maternity,139
+28/09/2024,108,Maternity,155
+29/09/2024,108,Maternity,90
+30/09/2024,108,Maternity,154
+01/10/2024,108,Maternity,93
+02/10/2024,108,Maternity,26
+03/10/2024,108,Maternity,96
+04/10/2024,108,Maternity,33
+05/10/2024,108,Maternity,17
+06/10/2024,108,Maternity,6
+07/10/2024,108,Maternity,33
+08/10/2024,108,Maternity,184
+09/10/2024,108,Maternity,31
+10/10/2024,108,Maternity,54
+11/10/2024,108,Maternity,99
+12/10/2024,108,Maternity,155
+13/10/2024,108,Maternity,92
+14/10/2024,108,Maternity,48
+15/10/2024,108,Maternity,26
+16/10/2024,108,Maternity,175
+17/10/2024,108,Maternity,169
+18/10/2024,108,Maternity,193
+19/10/2024,108,Maternity,101
+20/10/2024,108,Maternity,188
+21/10/2024,108,Maternity,7
+22/10/2024,108,Maternity,195
+23/10/2024,108,Maternity,122
+24/10/2024,108,Maternity,23
+25/10/2024,108,Maternity,27
+26/10/2024,108,Maternity,161
+27/10/2024,108,Maternity,34
+28/10/2024,108,Maternity,43
+29/10/2024,108,Maternity,112
+30/10/2024,108,Maternity,115
+31/10/2024,108,Maternity,29
+01/11/2024,108,Maternity,132
+02/11/2024,108,Maternity,115
+03/11/2024,108,Maternity,140
+04/11/2024,108,Maternity,110
+05/11/2024,108,Maternity,190
+06/11/2024,108,Maternity,148
+07/11/2024,108,Maternity,76
+08/11/2024,108,Maternity,133
+09/11/2024,108,Maternity,112
+10/11/2024,108,Maternity,9
+11/11/2024,108,Maternity,7
+12/11/2024,108,Maternity,197
+13/11/2024,108,Maternity,136
+14/11/2024,108,Maternity,108
+15/11/2024,108,Maternity,68
+16/11/2024,108,Maternity,110
+17/11/2024,108,Maternity,102
+18/11/2024,108,Maternity,14
+19/11/2024,108,Maternity,153
+20/11/2024,108,Maternity,132
+21/11/2024,108,Maternity,50
+22/11/2024,108,Maternity,159
+23/11/2024,108,Maternity,70
+24/11/2024,108,Maternity,173
+25/11/2024,108,Maternity,116
+26/11/2024,108,Maternity,17
+27/11/2024,108,Maternity,141
+28/11/2024,108,Maternity,168
+29/11/2024,108,Maternity,90
+30/11/2024,108,Maternity,94
+01/12/2024,108,Maternity,62
+02/12/2024,108,Maternity,58
+03/12/2024,108,Maternity,16
+04/12/2024,108,Maternity,18
+05/12/2024,108,Maternity,125
+06/12/2024,108,Maternity,166
+07/12/2024,108,Maternity,185
+08/12/2024,108,Maternity,125
+09/12/2024,108,Maternity,24
+10/12/2024,108,Maternity,79
+11/12/2024,108,Maternity,148
+12/12/2024,108,Maternity,74
+13/12/2024,108,Maternity,60
+14/12/2024,108,Maternity,105
+15/12/2024,108,Maternity,190
+16/12/2024,108,Maternity,136
+17/12/2024,108,Maternity,115
+18/12/2024,108,Maternity,129
+19/12/2024,108,Maternity,136
+20/12/2024,108,Maternity,24
+21/12/2024,108,Maternity,142
+22/12/2024,108,Maternity,28
+23/12/2024,108,Maternity,158
+24/12/2024,108,Maternity,41
+25/12/2024,108,Maternity,58
+26/12/2024,108,Maternity,107
+27/12/2024,108,Maternity,153
+28/12/2024,108,Maternity,42
+29/12/2024,108,Maternity,178
+30/12/2024,108,Maternity,8
+31/12/2024,108,Maternity,192
